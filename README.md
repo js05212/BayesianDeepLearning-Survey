@@ -58,6 +58,16 @@ Recurrent Poisson Process Unit for Speech Recognition<br>
 by Huang et al., AAAI 2019<br>
 [[PDF]](https://pdfs.semanticscholar.org/4970/fa3189cd9a9c817ba72082e2f3d5fc9a7df1.pdf)
 
+## BDL as a Framework (Miscellaneous)
+
+Towards Bayesian Deep Learning: A Framework and Some Existing Methods<br>
+by Wang et al., TKDE 2016<br>
+[[PDF]](https://arxiv.org/abs/1608.06884)
+
+Composing Graphical Models with Neural Networks for Structured Representations and Fast Inference<br>
+by Johnson et al., NIPS 2016<br>
+[[PDF]](https://arxiv.org/abs/1603.06277)
+
 ## Bayesian/Probabilistic Neural Networks as Building Blocks of BDL
 
 Natural-Parameter Networks: A Class of Probabilistic Neural Networks<br>
