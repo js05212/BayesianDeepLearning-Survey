@@ -68,4 +68,8 @@ Lightweight Probabilistic Deep Networks<br>
 by Gast et al., CVPR 2018<br>
 [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/html/Gast_Lightweight_Probabilistic_Deep_CVPR_2018_paper.html)
 
+Feed-forward Propagation in Probabilistic Neural Networks with Categorical and Max Layers
+by Shekhovtsov et al., ICLR 2018<br>
+[[PDF]](https://openreview.net/forum?id=SkMuPjRcKQ)
+
 
