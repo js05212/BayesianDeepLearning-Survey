@@ -16,7 +16,7 @@ Collaborative Recurrent Autoencoder: Recommend while Learning to Fill in the Bla
 by Wang et al., NIPS 2016<br>
 [[PDF]](https://arxiv.org/abs/1611.00454)
 
-Collaborative Knowledge Base Embedding for Recommender Systems
+Collaborative Knowledge Base Embedding for Recommender Systems<br>
 by Zhang et al., KDD 2016<br>
 [[PDF]](https://dl.acm.org/citation.cfm?id=2939673)
 
