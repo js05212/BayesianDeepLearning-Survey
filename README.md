@@ -16,9 +16,17 @@ Collaborative Recurrent Autoencoder: Recommend while Learning to Fill in the Bla
 by Wang et al., NIPS 2016<br>
 [[PDF]](https://arxiv.org/abs/1611.00454)
 
+Collaborative Knowledge Base Embedding for Recommender Systems
+by Zhang et al., KDD 2016<br>
+[[PDF]](https://dl.acm.org/citation.cfm?id=2939673)
+
 Collaborative Variational Autoencoder for Recommender Systems<br>
 by Li et al., NIPS 2017<br>
 [[PDF]](https://www.kdd.org/kdd2017/papers/view/collaborative-variational-autoencoder-for-recommender-systems)
+
+Variational Autoencoders for Collaborative Filtering<br>
+by Liang et al., WWW 2018<br>
+[[PDF]](https://arxiv.org/abs/1802.05814)
 
 ## BDL and Healthcare
 
