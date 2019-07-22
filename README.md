@@ -25,7 +25,7 @@ by Ying et al., PAKDD 2016<br>
 [[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-31750-2_44)
 
 Collaborative Variational Autoencoder for Recommender Systems<br>
-by Li et al., NIPS 2017<br>
+by Li et al., KDD 2017<br>
 [[PDF]](https://www.kdd.org/kdd2017/papers/view/collaborative-variational-autoencoder-for-recommender-systems)
 
 Variational Autoencoders for Collaborative Filtering<br>
