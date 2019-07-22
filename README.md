@@ -98,6 +98,18 @@ Natural-Parameter Networks: A Class of Probabilistic Neural Networks<br>
 by Wang et al., NIPS 2016<br>
 [[PDF]](http://wanghao.in/paper/NIPS16_NPN.pdf) [[Project Page]](https://github.com/js05212/NPN) [[Code]](https://github.com/js05212/NPN)
 
+Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks<br>
+by Mescheder et al., ICML 2017<br>
+[[PDF]](https://arxiv.org/pdf/1701.04722.pdf)
+
+Stick-Breaking Variational Autoencoders<br>
+by Nalisnick et al., ICLR 2017<br>
+[[PDF]](https://openreview.net/forum?id=S1jmAotxg)
+
+Bayesian GAN<br>
+by Saatchi et al, NIPS 2017<br>
+[[PDF]](https://arxiv.org/abs/1705.09558)
+
 Lightweight Probabilistic Deep Networks<br>
 by Gast et al., CVPR 2018<br>
 [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/html/Gast_Lightweight_Probabilistic_Deep_CVPR_2018_paper.html)
