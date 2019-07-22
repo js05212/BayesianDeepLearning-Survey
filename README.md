@@ -20,6 +20,10 @@ Collaborative Knowledge Base Embedding for Recommender Systems<br>
 by Zhang et al., KDD 2016<br>
 [[PDF]](https://dl.acm.org/citation.cfm?id=2939673)
 
+Collaborative Deep Ranking: A Hybrid Pair-Wise Recommendation Algorithm with Implicit Feedback<br>
+by Ying et al., PAKDD 2016<br>
+[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-31750-2_44)
+
 Collaborative Variational Autoencoder for Recommender Systems<br>
 by Li et al., NIPS 2017<br>
 [[PDF]](https://www.kdd.org/kdd2017/papers/view/collaborative-variational-autoencoder-for-recommender-systems)
@@ -40,17 +44,37 @@ Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Im
 by Watter et al., NIPS 2015<br>
 [[PDF]](https://arxiv.org/abs/1506.07365)
 
-## BDL and Link Prediction
+## BDL and Graphs (Link Prediction, Graph Neural Networks, etc.)
 
 Relational Deep Learning: A Deep Latent Variable Model for Link Prediction<br>
 by Wang et al., AAAI 2017<br>
 [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14346/14463)
+
+Graphite: Iterative Generative Modeling of Graphs<br>
+by Grover et al., ICML 2019<br>
+[[PDF]](https://arxiv.org/pdf/1803.10459.pdf)
+
+Relational Variational Autoencoder for Link Prediction with Multimedia Data<br>
+by Li et al., ACM MM 2017<br>
+[[PDF]](https://dl.acm.org/citation.cfm?id=3126774)
+
+Stochastic Blockmodels meet Graph Neural Networks<br>
+by Mehta et al., ArXiv 2019<br>
+[[PDF]](https://arxiv.org/pdf/1905.05738.pdf)
 
 ## BDL and Topic Modeling
 
 Relational Stacked Denoising Autoencoder for Tag Recommendation<br>
 by Wang et al., AAAI 2015<br>
 [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9350/9980)
+
+Scalable Deep Poisson Factor Analysis for Topic Modeling<br>
+by Gan et al., ICML 2015<br>
+[[PDF]](http://proceedings.mlr.press/v37/gan15.html)
+
+Neural Relational Topic Models for Scientific Article Analysis<br>
+by Bai et al., CIKM 2018<br>
+[[PDF]](https://dl.acm.org/citation.cfm?id=3271696)
 
 ## BDL and Speech Recognition
 
