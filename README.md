@@ -94,6 +94,38 @@ by Johnson et al., NIPS 2016<br>
 
 ## Bayesian/Probabilistic Neural Networks as Building Blocks of BDL
 
+Learning Stochastic Feedforward Networks<br>
+by Neal et al., Technical Report 1990<br>
+[[PDF]](https://www.cs.toronto.edu/~hinton/absps/sff.pdf)
+
+A Practical Bayesian Framework for Backprop Networks<br>
+by MacKay et al., Neural Computation 1992<br>
+[[PDF]](https://pdfs.semanticscholar.org/b0f2/433c088591d265891231f1c22424047f1bc1.pdf)
+
+Keeping Neural Networks Simple by Minimizing the Description Length of the Weights<br>
+by Hinton et al., COLT 1993<br>
+[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.44.3435)
+
+Practical Variational Inference for Neural Networks<br>
+by Alex Graves, NIPS 2011<br>
+[[PDF]](https://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks)
+
+Auto-Encoding Variational Bayes<br>
+by Kingma et al., ArXiv 2014<br>
+[[PDF]](https://arxiv.org/abs/1312.6114)
+
+Deep Exponential Families<br>
+by Ranganath et al., AISTATS 2015<br>
+[[PDF]](https://arxiv.org/abs/1411.2581)
+
+Weight Uncertainty in Neural Networks<br>
+by Blundell et al., ICML 2015<br>
+[[PDF]](https://arxiv.org/abs/1505.05424)
+
+Probabilistic Backpropagation for ScalableLearning of Bayesian Neural Networks<br>
+by Hernandez-Lobato et al., ICML 2015<br>
+[[PDF]](http://proceedings.mlr.press/v37/hernandez-lobatoc15.pdf)
+
 Natural-Parameter Networks: A Class of Probabilistic Neural Networks<br>
 by Wang et al., NIPS 2016<br>
 [[PDF]](http://wanghao.in/paper/NIPS16_NPN.pdf) [[Project Page]](https://github.com/js05212/NPN) [[Code]](https://github.com/js05212/NPN)
