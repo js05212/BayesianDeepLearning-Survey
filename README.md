@@ -150,4 +150,8 @@ Feed-forward Propagation in Probabilistic Neural Networks with Categorical and M
 by Shekhovtsov et al., ICLR 2018<br>
 [[PDF]](https://openreview.net/forum?id=SkMuPjRcKQ)
 
+Sampling-free Uncertainty Estimation in Gated Recurrent Units with Applications to Normative Modeling in Neuroimaging<br>
+by Hwang et al., UAI 2019<br>
+[[PDF]](http://auai.org/uai2019/proceedings/papers/296.pdf)
+
 
