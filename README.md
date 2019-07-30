@@ -34,6 +34,10 @@ by Liang et al., WWW 2018<br>
 
 ## BDL and Healthcare
 
+Structured Inference Networks for Nonlinear State Space Models<br>
+by Krishnan et al., AAAI 2017<br>
+[[PDF]](https://arxiv.org/pdf/1609.09869.pdf)
+
 Black Box FDR<br>
 by Tansey et al., ICML 2018<br>
 [[PDF]](https://arxiv.org/abs/1806.03143)
