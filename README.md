@@ -34,6 +34,10 @@ by Liang et al., WWW 2018<br>
 
 ## BDL and Healthcare
 
+Black Box FDR<br>
+by Tansey et al., ICML 2018<br>
+[[PDF]](https://arxiv.org/abs/1806.03143)
+
 Bidirectional Inference Networks: A Class of Deep Bayesian Networks for Health Profiling<br>
 by Wang et al., AAAI 2019<br>
 [[PDF]](https://arxiv.org/pdf/1902.02037)
@@ -41,6 +45,12 @@ by Wang et al., AAAI 2019<br>
 Sampling-free Uncertainty Estimation in Gated Recurrent Units with Applications to Normative Modeling in Neuroimaging<br>
 by Hwang et al., UAI 2019<br>
 [[PDF]](http://auai.org/uai2019/proceedings/papers/296.pdf)
+
+## BDL and NLP
+
+Sequence to Better Sequence: Continuous Revision of Combinatorial Structures<br>
+by Mueller et al., ICML 2017<br>
+[[PDF]](http://proceedings.mlr.press/v70/mueller17a.html)
 
 ## BDL and Control
 
@@ -129,6 +139,10 @@ by Blundell et al., ICML 2015<br>
 Probabilistic Backpropagation for ScalableLearning of Bayesian Neural Networks<br>
 by Hernandez-Lobato et al., ICML 2015<br>
 [[PDF]](http://proceedings.mlr.press/v37/hernandez-lobatoc15.pdf)
+
+Variational Dropout and the Local Reparameterization Trick<br>
+by Kingma et al., NIPS 2015<br>
+[[PDF]](https://arxiv.org/pdf/1506.02557.pdf)
 
 Natural-Parameter Networks: A Class of Probabilistic Neural Networks<br>
 by Wang et al., NIPS 2016<br>
