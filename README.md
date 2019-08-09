@@ -90,6 +90,10 @@ Scalable Deep Poisson Factor Analysis for Topic Modeling<br>
 by Gan et al., ICML 2015<br>
 [[PDF]](http://proceedings.mlr.press/v37/gan15.html)
 
+Deep Latent Dirichlet Allocation with Topic-layer-adaptive Stochastic Gradient Riemannian MCMC<br>
+by Cong et al., ICML 2017<br>
+[[PDF]](https://dl.acm.org/citation.cfm?id=3305471)
+
 Neural Relational Topic Models for Scientific Article Analysis<br>
 by Bai et al., CIKM 2018<br>
 [[PDF]](https://dl.acm.org/citation.cfm?id=3271696)
