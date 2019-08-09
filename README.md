@@ -172,5 +172,7 @@ Feed-forward Propagation in Probabilistic Neural Networks with Categorical and M
 by Shekhovtsov et al., ICLR 2018<br>
 [[PDF]](https://openreview.net/forum?id=SkMuPjRcKQ)
 
-
+ProbGAN: Towards Probabilistic GAN with Theoretical Guarantees<br>
+by He et al., ICLR 2019<br>
+[[PDF]](http://wanghao.in/paper/ICLR19_ProbGAN.pdf) [[Project Page]](https://github.com/hehaodele/ProbGAN)
 
