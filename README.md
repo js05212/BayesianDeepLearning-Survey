@@ -106,6 +106,10 @@ Neural Relational Topic Models for Scientific Article Analysis<br>
 by Bai et al., CIKM 2018<br>
 [[PDF]](https://dl.acm.org/citation.cfm?id=3271696)
 
+Dirichlet Belief Networks for Topic Structure Learning<br>
+by Zhao et al., NIPS 2018<br>
+[[PDF]](http://papers.nips.cc/paper/8020-dirichlet-belief-networks-for-topic-structure-learning)
+
 ## BDL and Speech Recognition
 
 Recurrent Poisson Process Unit for Speech Recognition<br>
