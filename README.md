@@ -148,6 +148,14 @@ Variational Dropout and the Local Reparameterization Trick<br>
 by Kingma et al., NIPS 2015<br>
 [[PDF]](https://arxiv.org/pdf/1506.02557.pdf)
 
+The Poisson Gamma Belief Network<br>
+by Zhou et al., NIPS 2015<br>
+[[PDF]](http://papers.nips.cc/paper/5645-the-poisson-gamma-belief-network)
+
+Deep Poisson Factor Modeling<br>
+by Henao et al., NIPS 2015<br>
+[[PDF]](http://papers.nips.cc/paper/5786-deep-poisson-factor-modeling)
+
 Natural-Parameter Networks: A Class of Probabilistic Neural Networks<br>
 by Wang et al., NIPS 2016<br>
 [[PDF]](http://wanghao.in/paper/NIPS16_NPN.pdf) [[Project Page]](https://github.com/js05212/NPN) [[Code]](https://github.com/js05212/NPN)
