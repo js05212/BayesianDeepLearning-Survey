@@ -34,6 +34,10 @@ by Liang et al., WWW 2018<br>
 
 ## BDL and Healthcare
 
+Electronic Health Record Analysis via Deep Poisson Factor Models<br>
+by Henao et al., JMLR 2016<br>
+[[PDF]](http://www.jmlr.org/papers/volume17/15-429/15-429.pdf)
+
 Structured Inference Networks for Nonlinear State Space Models<br>
 by Krishnan et al., AAAI 2017<br>
 [[PDF]](https://arxiv.org/pdf/1609.09869.pdf)
@@ -93,6 +97,10 @@ by Gan et al., ICML 2015<br>
 Deep Latent Dirichlet Allocation with Topic-layer-adaptive Stochastic Gradient Riemannian MCMC<br>
 by Cong et al., ICML 2017<br>
 [[PDF]](https://dl.acm.org/citation.cfm?id=3305471)
+
+Deep Unfolding for Topic Models<br>
+by Chien et al., TPAMI 2017<br>
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/7869412/)
 
 Neural Relational Topic Models for Scientific Article Analysis<br>
 by Bai et al., CIKM 2018<br>
