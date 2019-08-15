@@ -200,3 +200,7 @@ ProbGAN: Towards Probabilistic GAN with Theoretical Guarantees<br>
 by He et al., ICLR 2019<br>
 [[PDF]](http://wanghao.in/paper/ICLR19_ProbGAN.pdf) [[Project Page]](https://github.com/hehaodele/ProbGAN)
 
+Sampling-free Epistemic Uncertainty Estimation Using Approximated Variance Propagation<br>
+by Postels et al., ICCV 2019<br>
+[[PDF]](https://arxiv.org/abs/1908.00598)
+
