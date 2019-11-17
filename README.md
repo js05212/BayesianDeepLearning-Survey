@@ -60,6 +60,15 @@ Sequence to Better Sequence: Continuous Revision of Combinatorial Structures<br>
 by Mueller et al., ICML 2017<br>
 [[PDF]](http://proceedings.mlr.press/v70/mueller17a.html)
 
+## BDL and Computer Vision
+Attend, Infer, Repeat: Fast Scene Understanding with Generative Models<br>
+by Eslami et al., NIPS 2016<br>
+[[PDF]](https://arxiv.org/abs/1603.08575)
+
+Faster Attend-Infer-Repeat with Tractable Probabilistic Models<br>
+by Stelzner et al., ICML 2019<br>
+[[PDF]](http://proceedings.mlr.press/v97/stelzner19a.html)
+
 ## BDL and Control
 
 Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images<br>
