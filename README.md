@@ -155,7 +155,7 @@ by Alex Graves, NIPS 2011<br>
 
 Auto-Encoding Variational Bayes<br>
 by Kingma et al., ArXiv 2014<br>
-[[PDF]](https://arxiv.org/abs/1312.6114)
+[[PDF]](https://arxiv.org/pdf/1312.6114.pdf)
 
 Deep Exponential Families<br>
 by Ranganath et al., AISTATS 2015<br>
