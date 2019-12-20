@@ -69,6 +69,10 @@ Faster Attend-Infer-Repeat with Tractable Probabilistic Models<br>
 by Stelzner et al., ICML 2019<br>
 [[PDF]](http://proceedings.mlr.press/v97/stelzner19a.html)
 
+Asynchronous Temporal Fields for Action Recognition<br>
+by Sigurdsson et al., CVPR 2017<br>
+[[PDF]](https://arxiv.org/pdf/1612.06371.pdf)
+
 ## BDL and Control
 
 Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images<br>
