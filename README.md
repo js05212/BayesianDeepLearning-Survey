@@ -90,7 +90,7 @@ by Li et al., ACM MM 2017<br>
 [[PDF]](https://dl.acm.org/citation.cfm?id=3126774)
 
 Stochastic Blockmodels meet Graph Neural Networks<br>
-by Mehta et al., ArXiv 2019<br>
+by Mehta et al., ICML 2019<br>
 [[PDF]](https://arxiv.org/pdf/1905.05738.pdf)
 
 ## BDL and Topic Modeling
