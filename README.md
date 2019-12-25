@@ -169,7 +169,7 @@ Weight Uncertainty in Neural Networks<br>
 by Blundell et al., ICML 2015<br>
 [[PDF]](https://arxiv.org/abs/1505.05424)
 
-Probabilistic Backpropagation for ScalableLearning of Bayesian Neural Networks<br>
+Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks<br>
 by Hernandez-Lobato et al., ICML 2015<br>
 [[PDF]](http://proceedings.mlr.press/v37/hernandez-lobatoc15.pdf)
 
