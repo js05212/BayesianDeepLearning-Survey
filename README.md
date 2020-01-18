@@ -65,6 +65,18 @@ Attend, Infer, Repeat: Fast Scene Understanding with Generative Models<br>
 by Eslami et al., NIPS 2016<br>
 [[PDF]](https://arxiv.org/abs/1603.08575)
 
+Efficient Inference in Occlusion-aware Generative Models of Images<br>
+by Huang et al., ICLR 2016<br>
+[[PDF]](https://arxiv.org/abs/1511.06362)
+
+Sequential Attend, Infer, Repeat: Generative Modelling of Moving Objects<br>
+by Kosiorek et al., NIPS 2018<br>
+[[PDF]](https://arxiv.org/abs/1806.01794)
+
+Spatially Invariant Unsupervised Object Detection with Convolutional Neural Networks<br>
+by Crawford et al., AAAI 2019<br>
+[[PDF]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4216)
+
 Faster Attend-Infer-Repeat with Tractable Probabilistic Models<br>
 by Stelzner et al., ICML 2019<br>
 [[PDF]](http://proceedings.mlr.press/v97/stelzner19a.html)
