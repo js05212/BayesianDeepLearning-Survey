@@ -91,6 +91,10 @@ Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Im
 by Watter et al., NIPS 2015<br>
 [[PDF]](https://arxiv.org/abs/1506.07365)
 
+Deep Variational Bayes Filters: Unsupervised Learning of State Space Models from Raw Data<br>
+by Karl et al., ICLR 2017<br>
+[[PDF]](https://arxiv.org/pdf/1605.06432.pdf)
+
 ## BDL and Graphs (Link Prediction, Graph Neural Networks, etc.)
 
 Relational Deep Learning: A Deep Latent Variable Model for Link Prediction<br>
