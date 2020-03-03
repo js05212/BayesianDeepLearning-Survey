@@ -95,6 +95,10 @@ Deep Variational Bayes Filters: Unsupervised Learning of State Space Models from
 by Karl et al., ICLR 2017<br>
 [[PDF]](https://arxiv.org/pdf/1605.06432.pdf)
 
+Learning Latent Dynamics for Planning from Pixels<br>
+by Hafner et al., ICML 2019<br>
+[[PDF]](https://arxiv.org/pdf/1811.04551.pdf)
+
 ## BDL and Graphs (Link Prediction, Graph Neural Networks, etc.)
 
 Relational Deep Learning: A Deep Latent Variable Model for Link Prediction<br>
