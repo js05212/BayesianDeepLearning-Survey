@@ -60,6 +60,10 @@ Sequence to Better Sequence: Continuous Revision of Combinatorial Structures<br>
 by Mueller et al., ICML 2017<br>
 [[PDF]](http://proceedings.mlr.press/v70/mueller17a.html)
 
+QuaSE: Sequence Editing under Quantifiable Guidance<br>
+by Liao et al., EMNLP 2018<br>
+[[PDF]](https://arxiv.org/pdf/1804.07007.pdf)
+
 ## BDL and Computer Vision
 Attend, Infer, Repeat: Fast Scene Understanding with Generative Models<br>
 by Eslami et al., NIPS 2016<br>
