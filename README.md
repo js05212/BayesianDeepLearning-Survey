@@ -95,6 +95,10 @@ Deep Variational Bayes Filters: Unsupervised Learning of State Space Models from
 by Karl et al., ICLR 2017<br>
 [[PDF]](https://arxiv.org/pdf/1605.06432.pdf)
 
+Probabilistic Recurrent State-Space Models<br>
+by Doerr et al., ICML 2018<br>
+[[PDF]](http://proceedings.mlr.press/v80/doerr18a/doerr18a.pdf)
+
 Learning Latent Dynamics for Planning from Pixels<br>
 by Hafner et al., ICML 2019<br>
 [[PDF]](https://arxiv.org/pdf/1811.04551.pdf)
