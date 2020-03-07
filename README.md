@@ -158,7 +158,7 @@ by Hsu et al., NIPS 2017<br>
 [[PDF]](https://arxiv.org/pdf/1709.07902.pdf)
 
 Scalable Factorized Hierarchical Variational Autoencoder Training<br>
-by Hsu et al., Interspeech<br>
+by Hsu et al., Interspeech 2018<br>
 [[PDF]](https://arxiv.org/pdf/1804.03201.pdf)
 
 Hierarchical Generative Modeling for Controllable Speech Synthesis<br>
