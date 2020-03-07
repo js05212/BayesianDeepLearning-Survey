@@ -153,6 +153,10 @@ by Zhao et al., NIPS 2018<br>
 
 ## BDL and Speech Recognition
 
+Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data<br>
+by Hsu et al., NIPS 2017<br>
+[[PDF]](https://arxiv.org/pdf/1709.07902.pdf)
+
 Recurrent Poisson Process Unit for Speech Recognition<br>
 by Huang et al., AAAI 2019<br>
 [[PDF]](https://pdfs.semanticscholar.org/4970/fa3189cd9a9c817ba72082e2f3d5fc9a7df1.pdf)
