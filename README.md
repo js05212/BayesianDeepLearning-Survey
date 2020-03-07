@@ -151,11 +151,15 @@ Dirichlet Belief Networks for Topic Structure Learning<br>
 by Zhao et al., NIPS 2018<br>
 [[PDF]](http://papers.nips.cc/paper/8020-dirichlet-belief-networks-for-topic-structure-learning)
 
-## BDL and Speech Recognition
+## BDL and Speech Recognition/Synthesis
 
 Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data<br>
 by Hsu et al., NIPS 2017<br>
 [[PDF]](https://arxiv.org/pdf/1709.07902.pdf)
+
+Scalable Factorized Hierarchical Variational Autoencoder Training<br>
+by Hsu et al., Interspeech<br>
+[[PDF]](https://arxiv.org/pdf/1804.03201.pdf)
 
 Hierarchical Generative Modeling for Controllable Speech Synthesis<br>
 by Hsu et al., ICLR 2019<br>
