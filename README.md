@@ -169,6 +169,12 @@ Recurrent Poisson Process Unit for Speech Recognition<br>
 by Huang et al., AAAI 2019<br>
 [[PDF]](https://pdfs.semanticscholar.org/4970/fa3189cd9a9c817ba72082e2f3d5fc9a7df1.pdf)
 
+## BDL and Forecasting (Time Series Analysis)
+
+Deep Factors for Forecasting<br>
+by Wang et al., ICML 2019<br>
+[[PDF]](https://arxiv.org/pdf/1905.12417.pdf)
+
 ## BDL as a Framework (Miscellaneous)
 
 Towards Bayesian Deep Learning: A Framework and Some Existing Methods<br>
