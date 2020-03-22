@@ -171,9 +171,21 @@ by Huang et al., AAAI 2019<br>
 
 ## BDL and Forecasting (Time Series Analysis)
 
+DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks<br>
+by Salinas et al., 2017<br>
+[[PDF]](https://arxiv.org/pdf/1704.04110.pdf)
+
+Deep State Space Models for Time Series Forecasting<br>
+by Rangapuram et al., NIPS 2018<br>
+[[PDF]](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting.pdf)
+
 Deep Factors for Forecasting<br>
 by Wang et al., ICML 2019<br>
 [[PDF]](https://arxiv.org/pdf/1905.12417.pdf)
+
+Probabilistic Forecasting with Spline Quantile Function RNNs<br>
+by Gasthaus et al., AISTATS 2019<br>
+[[PDF]](http://proceedings.mlr.press/v89/gasthaus19a/gasthaus19a.pdf)
 
 ## BDL as a Framework (Miscellaneous)
 
