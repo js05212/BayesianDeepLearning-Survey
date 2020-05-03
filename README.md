@@ -89,6 +89,10 @@ Asynchronous Temporal Fields for Action Recognition<br>
 by Sigurdsson et al., CVPR 2017<br>
 [[PDF]](https://arxiv.org/pdf/1612.06371.pdf)
 
+Generalizing Eye Tracking with Bayesian Adversarial Learning<br>
+by Wang et al., CVPR 2019<br>
+[[PDF]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Generalizing_Eye_Tracking_With_Bayesian_Adversarial_Learning_CVPR_2019_paper.pdf)
+
 ## BDL and Control
 
 Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images<br>
