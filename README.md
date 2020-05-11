@@ -93,6 +93,10 @@ Generalizing Eye Tracking with Bayesian Adversarial Learning<br>
 by Wang et al., CVPR 2019<br>
 [[PDF]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Generalizing_Eye_Tracking_With_Bayesian_Adversarial_Learning_CVPR_2019_paper.pdf)
 
+Sequential Neural Processes<br>
+by Singh et al., NIPS 2019<br>
+[[PDF]](http://papers.nips.cc/paper/9214-sequential-neural-processes.pdf)
+
 ## BDL and Control
 
 Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images<br>
