@@ -6,6 +6,10 @@ A Survey on Bayesian Deep Learning<br>
 by Wang et al., ACM Computing Surveys (CSUR) 2020<br>
 [[PDF]](http://wanghao.in/paper/CSUR20_BDL.pdf) [[BDL Framework in 2016]](http://wanghao.in/paper/TKDE16_BDL.pdf)
 
+<p align="center">
+<img src="./BDL_Table.png" alt="" data-canonical-src="./BDL_Table.png" width="930" height="580"/>
+</p>
+
 ## BDL and Recommender Systems
 
 Collaborative Deep Learning for Recommender Systems<br>
