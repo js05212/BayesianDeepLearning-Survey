@@ -2,9 +2,9 @@
 
 ## Survey
 
-Towards Bayesian Deep Learning: A Survey<br>
-by Wang et al., 2016<br>
-[[Arxiv Version]](https://arxiv.org/pdf/1604.01662.pdf) and [[TKDE Version]](http://wanghao.in/paper/TKDE16_BDL.pdf)
+A Survey on Bayesian Deep Learning<br>
+by Wang et al., ACM Computing Surveys (CSUR) 2020<br>
+[[PDF]](http://wanghao.in/paper/CSUR20_BDL.pdf) [[BDL Framework in 2016]](http://wanghao.in/paper/TKDE16_BDL.pdf)
 
 ## BDL and Recommender Systems
 
