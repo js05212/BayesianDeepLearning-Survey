@@ -36,6 +36,11 @@ Variational Autoencoders for Collaborative Filtering<br>
 by Liang et al., WWW 2018<br>
 [[PDF]](https://arxiv.org/abs/1802.05814)
 
+## BDL and Domain Adaptation
+Continuously Indexed Domain Adaptation<br>
+by Wang et al., ICML 2020<br>
+[[PDF]](http://wanghao.in/paper/ICML20_CIDA.pdf)
+
 ## BDL and Healthcare
 
 Electronic Health Record Analysis via Deep Poisson Factor Models<br>
@@ -137,6 +142,10 @@ Stochastic Blockmodels meet Graph Neural Networks<br>
 by Mehta et al., ICML 2019<br>
 [[PDF]](https://arxiv.org/pdf/1905.05738.pdf)
 
+Scalable Deep Generative Modeling for Sparse Graphs<br>
+by Dai et al., ICML 2020<br>
+[[PDF]](https://arxiv.org/pdf/2006.15502.pdf)
+
 ## BDL and Topic Modeling
 
 Relational Stacked Denoising Autoencoder for Tag Recommendation<br>
@@ -180,6 +189,10 @@ by Hsu et al., ICLR 2019<br>
 Recurrent Poisson Process Unit for Speech Recognition<br>
 by Huang et al., AAAI 2019<br>
 [[PDF]](https://pdfs.semanticscholar.org/4970/fa3189cd9a9c817ba72082e2f3d5fc9a7df1.pdf)
+
+Deep Graph Random Process for Relational-thinking-based Speech Recognition<br>
+by Huang et al., ICML 2020<br>
+[[PDF]](http://wanghao.in/paper/ICML20_DGP.pdf)
 
 ## BDL and Forecasting (Time Series Analysis)
 
