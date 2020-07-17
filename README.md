@@ -212,6 +212,10 @@ Probabilistic Forecasting with Spline Quantile Function RNNs<br>
 by Gasthaus et al., AISTATS 2019<br>
 [[PDF]](http://proceedings.mlr.press/v89/gasthaus19a/gasthaus19a.pdf)
 
+Adversarial Attacks on Probabilistic Autoregressive Forecasting Models<br>
+by Dang-Nhu et al., ICML 2020<br>
+[[PDF]](https://proceedings.icml.cc/static/paper_files/icml/2020/526-Paper.pdf)
+
 ## BDL as a Framework (Miscellaneous)
 
 Towards Bayesian Deep Learning: A Framework and Some Existing Methods<br>
