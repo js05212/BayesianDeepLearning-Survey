@@ -288,6 +288,10 @@ Bayesian GAN<br>
 by Saatchi et al, NIPS 2017<br>
 [[PDF]](https://arxiv.org/abs/1705.09558)
 
+Neural Expectation Maximization<br>
+by Greff et al., NIPS 2017<br>
+[[PDF]](https://papers.nips.cc/paper/7246-neural-expectation-maximization.pdf)
+
 Lightweight Probabilistic Deep Networks<br>
 by Gast et al., CVPR 2018<br>
 [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/html/Gast_Lightweight_Probabilistic_Deep_CVPR_2018_paper.html)
