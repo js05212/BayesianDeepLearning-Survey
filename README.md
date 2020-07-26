@@ -316,3 +316,7 @@ Sampling-free Epistemic Uncertainty Estimation Using Approximated Variance Propa
 by Postels et al., ICCV 2019<br>
 [[PDF]](https://arxiv.org/abs/1908.00598)
 
+Efficient and Scalable Bayesian Neural Nets with Rank-1 Factors<br>
+by Dusenberry et al., ICML 2020<br>
+[[PDF]](https://proceedings.icml.cc/static/paper_files/icml/2020/5657-Paper.pdf)
+
