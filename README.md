@@ -320,3 +320,6 @@ Efficient and Scalable Bayesian Neural Nets with Rank-1 Factors<br>
 by Dusenberry et al., ICML 2020<br>
 [[PDF]](https://proceedings.icml.cc/static/paper_files/icml/2020/5657-Paper.pdf)
 
+Neural Clustering Processes<br>
+by Pakman et al., ICML 2020<br>
+[[PDF]](https://proceedings.icml.cc/static/paper_files/icml/2020/3997-Paper.pdf)
