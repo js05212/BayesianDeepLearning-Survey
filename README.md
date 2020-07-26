@@ -106,6 +106,9 @@ Sequential Neural Processes<br>
 by Singh et al., NIPS 2019<br>
 [[PDF]](http://papers.nips.cc/paper/9214-sequential-neural-processes.pdf)
 
+ Being Bayesian about Categorical Probability<br>
+ by Joo et al., ICML 2020<br>
+
 ## BDL and Control
 
 Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images<br>
