@@ -108,6 +108,7 @@ by Singh et al., NIPS 2019<br>
 
  Being Bayesian about Categorical Probability<br>
  by Joo et al., ICML 2020<br>
+ [[PDF]](https://proceedings.icml.cc/static/paper_files/icml/2020/3560-Paper.pdf)
 
 ## BDL and Control
 
