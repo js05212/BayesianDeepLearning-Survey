@@ -1,6 +1,6 @@
 # An Updating Survey for Bayesian Deep Learning (BDL)
 
-This is an updating survey for Bayesian Deep Learning (BDL).
+This is an updating survey for Bayesian Deep Learning (BDL), an constantly updated and extended version for the manuscript, '[A Survey on Bayesian Deep Learning](http://wanghao.in/paper/CSUR20_BDL.pdf)', published in **ACM Computing Surveys** 2020.
 
 ## Contents
 
