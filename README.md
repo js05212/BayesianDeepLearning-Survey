@@ -342,3 +342,7 @@ by Dusenberry et al., ICML 2020<br>
 Neural Clustering Processes<br>
 by Pakman et al., ICML 2020<br>
 [[PDF]](https://proceedings.icml.cc/static/paper_files/icml/2020/3997-Paper.pdf)
+
+Being Bayesian, Even Just a Bit, Fixes Overconfidence in ReLU Networks<br>
+by Kristiadi et al., ICML 2020<br>
+[[PDF]](https://proceedings.icml.cc/static/paper_files/icml/2020/780-Paper.pdf)
