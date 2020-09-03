@@ -55,6 +55,10 @@ Variational Autoencoders for Collaborative Filtering<br>
 by Liang et al., WWW 2018<br>
 [[PDF]](https://arxiv.org/abs/1802.05814)
 
+Probabilistic Metric Learning with Adaptive Margin for Top-K Recommendation<br>
+by Ma et al., KDD 2020<br>
+[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403147)
+
 ## BDL and Domain Adaptation
 Continuously Indexed Domain Adaptation<br>
 by Wang et al., ICML 2020<br>
