@@ -105,6 +105,10 @@ Sequential Attend, Infer, Repeat: Generative Modelling of Moving Objects<br>
 by Kosiorek et al., NIPS 2018<br>
 [[PDF]](https://arxiv.org/abs/1806.01794)
 
+Gaussian Process Prior Variational Autoencoders<br>
+by Casale et al., NIPS 2018<br>
+[[PDF]](https://arxiv.org/pdf/1810.11738.pdf)
+
 Spatially Invariant Unsupervised Object Detection with Convolutional Neural Networks<br>
 by Crawford et al., AAAI 2019<br>
 [[PDF]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4216)
