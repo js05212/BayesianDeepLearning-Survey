@@ -96,6 +96,10 @@ QuaSE: Sequence Editing under Quantifiable Guidance<br>
 by Liao et al., EMNLP 2018<br>
 [[PDF]](https://arxiv.org/pdf/1804.07007.pdf)
 
+Dispersed Exponential Family Mixture VAEs for Interpretable Text Generation<br>
+by Shi et al., ICML 2020<br>
+[[PDF]](https://proceedings.icml.cc/static/paper_files/icml/2020/3242-Paper.pdf)
+
 ## BDL and Computer Vision
 Attend, Infer, Repeat: Fast Scene Understanding with Generative Models<br>
 by Eslami et al., NIPS 2016<br>
