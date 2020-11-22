@@ -33,7 +33,7 @@ by Wang et al., ACM Computing Surveys (CSUR) 2020<br>
 
 Collaborative Deep Learning for Recommender Systems<br>
 by Wang et al., KDD 2015<br>
-[[PDF]](http://wanghao.in/paper/KDD15_CDL.pdf) [[Project Page]](http://wanghao.in/CDL.htm) [[2014 Arxiv Version]](https://arxiv.org/abs/1409.2944)
+[[PDF]](http://wanghao.in/paper/KDD15_CDL.pdf) [[Project Page]](http://wanghao.in/CDL.htm) [[2014 Arxiv Version]](https://arxiv.org/abs/1409.2944) [[Code]](https://github.com/js05212/CDL) [[MXNet Code]](https://github.com/js05212/MXNet-for-CDL) [[TensorFlow Code]](https://github.com/js05212/CollaborativeDeepLearning-TensorFlow) [[Dataset A]](https://github.com/js05212/citeulike-a) [[Dataset B]](https://github.com/js05212/citeulike-t) [[Jupyter Notebook]](https://github.com/js05212/MXNet-for-CDL/blob/master/collaborative-dl.ipynb) [[Slides]](http://wanghao.in/slides/CDL_slides.pdf) [[Slides (Long)]](http://wanghao.in/slides/CDL_slides_long.pdf)
 
 Collaborative Recurrent Autoencoder: Recommend while Learning to Fill in the Blanks<br>
 by Wang et al., NIPS 2016<br>
