@@ -62,7 +62,7 @@ by Ma et al., KDD 2020<br>
 ## BDL and Domain Adaptation
 Continuously Indexed Domain Adaptation<br>
 by Wang et al., ICML 2020<br>
-[[PDF]](http://wanghao.in/paper/ICML20_CIDA.pdf) [Cross Referenced in [BDL and Domain Adaptation]](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-domain-adaptation)
+[[PDF]](http://wanghao.in/paper/ICML20_CIDA.pdf) 
 
 ## BDL and Healthcare
 
@@ -92,7 +92,7 @@ by Jia et al., NIPS 2019<br>
 
 Continuously Indexed Domain Adaptation<br>
 by Wang et al., ICML 2020<br>
-[[PDF]](http://wanghao.in/paper/ICML20_CIDA.pdf)
+[[PDF]](http://wanghao.in/paper/ICML20_CIDA.pdf) [Cross Referenced in [BDL and Domain Adaptation](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-domain-adaptation)]
 
 ## BDL and NLP
 
