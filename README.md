@@ -62,7 +62,7 @@ by Ma et al., KDD 2020<br>
 ## BDL and Domain Adaptation
 Continuously Indexed Domain Adaptation<br>
 by Wang et al., ICML 2020<br>
-[[PDF]](http://wanghao.in/paper/ICML20_CIDA.pdf)
+[[PDF]](http://wanghao.in/paper/ICML20_CIDA.pdf) [Cross Referenced in [BDL and Domain Adaptation]](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-domain-adaptation)
 
 ## BDL and Healthcare
 
@@ -85,6 +85,14 @@ by Wang et al., AAAI 2019<br>
 Sampling-free Uncertainty Estimation in Gated Recurrent Units with Applications to Normative Modeling in Neuroimaging<br>
 by Hwang et al., UAI 2019<br>
 [[PDF]](http://auai.org/uai2019/proceedings/papers/296.pdf)
+
+Neural Jump Stochastic Differential Equations<br>
+by Jia et al., NIPS 2019<br>
+[[PDF]](https://arxiv.org/pdf/1905.10403.pdf)
+
+Continuously Indexed Domain Adaptation<br>
+by Wang et al., ICML 2020<br>
+[[PDF]](http://wanghao.in/paper/ICML20_CIDA.pdf)
 
 ## BDL and NLP
 
