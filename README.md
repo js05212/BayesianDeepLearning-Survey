@@ -219,6 +219,10 @@ Dirichlet Belief Networks for Topic Structure Learning<br>
 by Zhao et al., NIPS 2018<br>
 [[PDF]](http://papers.nips.cc/paper/8020-dirichlet-belief-networks-for-topic-structure-learning)
 
+Deep Relational Topic Modeling via Graph Poisson Gamma Belief Network<br>
+by Wang et al., NIPS 2020<br>
+[[PDF]](https://proceedings.neurips.cc//paper/2020/hash/05ee45de8d877c3949760a94fa691533-Abstract.html)
+
 ## BDL and Speech Recognition/Synthesis
 
 Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data<br>
