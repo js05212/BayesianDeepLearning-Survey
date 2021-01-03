@@ -90,6 +90,10 @@ Neural Jump Stochastic Differential Equations<br>
 by Jia et al., NIPS 2019<br>
 [[PDF]](https://arxiv.org/pdf/1905.10403.pdf)
 
+Towards Interpretable Clinical Diagnosis with Bayesian Network Ensembles Stacked on Entity-Aware CNNs<br>
+by Chen et al., ACL 2020<br>
+[[PDF]](https://www.aclweb.org/anthology/2020.acl-main.286.pdf)
+
 Continuously Indexed Domain Adaptation<br>
 by Wang et al., ICML 2020<br>
 [[PDF]](http://wanghao.in/paper/ICML20_CIDA.pdf) [Cross Referenced in [BDL and Domain Adaptation](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-domain-adaptation)]
@@ -107,6 +111,10 @@ by Liao et al., EMNLP 2018<br>
 Dispersed Exponential Family Mixture VAEs for Interpretable Text Generation<br>
 by Shi et al., ICML 2020<br>
 [[PDF]](https://proceedings.icml.cc/static/paper_files/icml/2020/3242-Paper.pdf)
+
+Towards Interpretable Clinical Diagnosis with Bayesian Network Ensembles Stacked on Entity-Aware CNNs<br>
+by Chen et al., ACL 2020<br>
+[[PDF]](https://www.aclweb.org/anthology/2020.acl-main.286.pdf) [Cross Referenced in [BDL and Healthcare](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-nlp)]
 
 ## BDL and Computer Vision
 Attend, Infer, Repeat: Fast Scene Understanding with Generative Models<br>
