@@ -114,7 +114,7 @@ by Shi et al., ICML 2020<br>
 
 Towards Interpretable Clinical Diagnosis with Bayesian Network Ensembles Stacked on Entity-Aware CNNs<br>
 by Chen et al., ACL 2020<br>
-[[PDF]](https://www.aclweb.org/anthology/2020.acl-main.286.pdf) [Cross Referenced in [BDL and Healthcare](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-nlp)]
+[[PDF]](https://www.aclweb.org/anthology/2020.acl-main.286.pdf) [Cross Referenced in [BDL and Healthcare](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-healthcare)]
 
 ## BDL and Computer Vision
 Attend, Infer, Repeat: Fast Scene Understanding with Generative Models<br>
