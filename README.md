@@ -201,6 +201,10 @@ Scalable Deep Generative Modeling for Sparse Graphs<br>
 by Dai et al., ICML 2020<br>
 [[PDF]](https://arxiv.org/pdf/2006.15502.pdf)
 
+PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks<br>
+by Vu et al., NIPS 2020<br>
+[[PDF]](https://arxiv.org/pdf/2010.05788.pdf)
+
 ## BDL and Topic Modeling
 
 Relational Stacked Denoising Autoencoder for Tag Recommendation<br>
