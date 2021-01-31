@@ -205,6 +205,10 @@ PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Netwo
 by Vu et al., NIPS 2020<br>
 [[PDF]](https://arxiv.org/pdf/2010.05788.pdf)
 
+Dirichlet Graph Variational Autoencoder<br>
+by Li et al., NIPS 2020<br>
+[[PDF]](https://arxiv.org/pdf/2010.04408.pdf)
+
 ## BDL and Topic Modeling
 
 Relational Stacked Denoising Autoencoder for Tag Recommendation<br>
