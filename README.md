@@ -179,7 +179,7 @@ Learning Latent Dynamics for Planning from Pixels<br>
 by Hafner et al., ICML 2019<br>
 [[PDF]](https://arxiv.org/pdf/1811.04551.pdf)
 
-## BDL and Graphs (Link Prediction, Graph Neural Networks, etc.)
+## BDL and Graphs (Link Prediction, Graph Neural Networks, Knowledge Graphs, etc.)
 
 Relational Deep Learning: A Deep Latent Variable Model for Link Prediction<br>
 by Wang et al., AAAI 2017<br>
@@ -208,6 +208,10 @@ by Vu et al., NIPS 2020<br>
 Dirichlet Graph Variational Autoencoder<br>
 by Li et al., NIPS 2020<br>
 [[PDF]](https://arxiv.org/pdf/2010.04408.pdf)
+
+Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs<br>
+by Ren et al., NIPS 2020<br>
+[[PDF]](https://arxiv.org/pdf/2010.11465.pdf)
 
 ## BDL and Topic Modeling
 
