@@ -1,6 +1,8 @@
 # An Updating Survey for Bayesian Deep Learning (BDL)
 
-This is an updating survey for Bayesian Deep Learning (BDL), an constantly updated and extended version for the manuscript, '[A Survey on Bayesian Deep Learning](http://wanghao.in/paper/CSUR20_BDL.pdf)', published in [**ACM Computing Surveys**](https://dl.acm.org/doi/10.1145/3409383) 2020.
+This is an updating survey for Bayesian Deep Learning (BDL), an constantly updated and extended version for the manuscript, '[A Survey on Bayesian Deep Learning](http://wanghao.in/paper/CSUR20_BDL.pdf)', published in [**ACM Computing Surveys**](https://dl.acm.org/doi/10.1145/3409383) 2020.<br>
+
+Bayesian deep learning is a powerful framework for designing models across a wide range of applications. See our [**Nature Medicine** paper](https://www.nature.com/articles/s41591-021-01273-1.pdf) for a possible application on healthcare. 
 
 ## Contents
 
