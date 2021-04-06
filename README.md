@@ -187,6 +187,10 @@ Relational Deep Learning: A Deep Latent Variable Model for Link Prediction<br>
 by Wang et al., AAAI 2017<br>
 [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14346/14463)
 
+Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs<br>
+by Trivedi et al., ICML 2017<br>
+[[PDF]](https://arxiv.org/pdf/1705.05742.pdf)
+
 Graphite: Iterative Generative Modeling of Graphs<br>
 by Grover et al., ICML 2019<br>
 [[PDF]](https://arxiv.org/pdf/1803.10459.pdf)
