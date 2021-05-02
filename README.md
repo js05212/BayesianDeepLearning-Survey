@@ -62,6 +62,26 @@ by Ma et al., KDD 2020<br>
 [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403147)
 
 ## BDL and Domain Adaptation (and Domain Generalization, Meta Learning, etc.)
+Probabilistic Model-Agnostic Meta-Learning<br>
+by Finn et al., NIPS 2018<br>
+[[PDF]](https://papers.nips.cc/paper/2018/file/8e2c381d4dd04f1c55093f22c59c3a08-Paper.pdf)
+
+Bayesian Model-Agnostic Meta-Learning<br>
+by Yoon et al., NIPS 2018<br>
+[[PDF]](https://arxiv.org/pdf/1806.03836.pdf)
+
+Recasting Gradient-Based Meta-Learning as Hierarchical Bayes<br>
+by Grant et al., ICLR 2018<br>
+[[PDF]](https://arxiv.org/abs/1801.08930)
+
+Reconciling Meta-Learning and Continual Learning with Online Mixtures of Tasks<br>
+by Jerfal et al., NIPS 2019<br>
+[[PDF]](https://arxiv.org/abs/1812.06080)
+
+Meta-Learning Probabilistic Inference For Prediction<br>
+by Gordon et al., ICLR 2019<br>
+[[PDF]](https://arxiv.org/abs/1805.09921)
+
 Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels<br>
 by Patacchiola et al., NIPS 2020<br>
 [[PDF]](https://arxiv.org/pdf/1910.05199.pdf)
