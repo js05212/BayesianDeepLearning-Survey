@@ -303,6 +303,10 @@ Adversarial Attacks on Probabilistic Autoregressive Forecasting Models<br>
 by Dang-Nhu et al., ICML 2020<br>
 [[PDF]](https://proceedings.icml.cc/static/paper_files/icml/2020/526-Paper.pdf)
 
+Neural Jump Stochastic Differential Equations<br>
+by Jia et al., NIPS 2019<br>
+[[PDF]](https://arxiv.org/pdf/1905.10403.pdf)
+
 ## BDL as a Framework (Miscellaneous)
 
 Towards Bayesian Deep Learning: A Framework and Some Existing Methods<br>
