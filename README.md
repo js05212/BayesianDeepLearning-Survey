@@ -8,7 +8,7 @@ Bayesian deep learning is a powerful framework for designing models across a wid
 
 * [Survey](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#survey)
 * [BDL and Recommender Systems](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-recommender-systems)
-* [BDL and Domain Adaptation](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-domain-adaptation)
+* [BDL and Domain Adaptation (and Domain Generalization, Meta Learning, etc.)](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-domain-adaptation-and-domain-generalization-meta-learning-etc)
 * [BDL and Healthcare](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-healthcare)
 * [BDL and Natural Language Processing (NLP)](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-nlp)
 * [BDL and Computer Vision (CV)](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-computer-vision)
@@ -61,10 +61,16 @@ Probabilistic Metric Learning with Adaptive Margin for Top-K Recommendation<br>
 by Ma et al., KDD 2020<br>
 [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403147)
 
-## BDL and Domain Adaptation
+## BDL and Domain Adaptation (and Domain Generalization, Meta Learning, etc.)
+Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels<br>
+by Patacchiola et al., NIPS 2020<br>
+[[PDF]](https://arxiv.org/pdf/1910.05199.pdf)
+
 Continuously Indexed Domain Adaptation<br>
 by Wang et al., ICML 2020<br>
 [[PDF]](http://wanghao.in/paper/ICML20_CIDA.pdf) 
+
+
 
 ## BDL and Healthcare
 
