@@ -329,7 +329,7 @@ by Jia et al., NIPS 2019<br>
 [[PDF]](https://arxiv.org/pdf/1905.10403.pdf)
 
 ## BDL and Distributed/Federated Learning
-Stochastic Expectation Propagation
+Stochastic Expectation Propagation<br>
 by Li et al., NIPS 2015<br>
 [[PDF]](https://papers.nips.cc/paper/2015/file/f3bd5ad57c8389a8a1a541a76be463bf-Paper.pdf)
 
