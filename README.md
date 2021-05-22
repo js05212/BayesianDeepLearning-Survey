@@ -17,7 +17,7 @@ Bayesian deep learning is a powerful framework for designing models across a wid
 * [BDL and Topic Modeling](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-topic-modeling)
 * [BDL and Speech Recognition/Synthesis](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-speech-recognitionsynthesis)
 * [BDL and Forecasting (Time Series Analysis)](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-forecasting-time-series-analysis)
-* [BDL and Distributed/Federated Learning](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-distributed-federated-learning)
+* [BDL and Distributed/Federated Learning](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-distributedfederated-learning)
 * [BDL as a Framework (Miscellaneous)](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-as-a-framework-miscellaneous)
 * [Bayesian/Probabilistic Neural Networks as Building Blocks of BDL](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bayesianprobabilistic-neural-networks-as-building-blocks-of-bdl)
 
