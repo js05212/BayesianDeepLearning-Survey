@@ -193,6 +193,11 @@ by Singh et al., NIPS 2019<br>
  Generative Neurosymbolic Machines<br>
  by Jiang et al., NIPS 2020<br>
  [[PDF]](https://arxiv.org/pdf/2010.12152.pdf)
+ 
+Generative Interventions for Causal Learning.<br>
+by Mao et al., CVPR 2021<br>
+[[PDF]](http://wanghao.in/paper/CVPR21_GenInt.pdf)
+
 
 ## BDL and Control
 
