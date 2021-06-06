@@ -131,6 +131,10 @@ Assessment of medication self-administration using artificial intelligence<br>
 by Zhao et al., Nature Medicine 2021<br>
 [[PDF]](https://www.nature.com/articles/s41591-021-01273-1.pdf)
 
+Neural Pharmacodynamic State Space Modeling<br>
+by Hussain et al., ICML 2021<br>
+[[PDF]](https://arxiv.org/pdf/2102.11218.pdf)
+
 ## BDL and NLP
 
 Sequence to Better Sequence: Continuous Revision of Combinatorial Structures<br>
