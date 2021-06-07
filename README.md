@@ -311,6 +311,10 @@ Deep Graph Random Process for Relational-thinking-based Speech Recognition<br>
 by Huang et al., ICML 2020<br>
 [[PDF]](http://wanghao.in/paper/ICML20_DGP.pdf)
 
+Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech<br>
+by Popov et al., ICML 2021<br>
+[[PDF]](https://arxiv.org/pdf/2105.06337.pdf)
+
 ## BDL and Forecasting (Time Series Analysis)
 
 DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks<br>
