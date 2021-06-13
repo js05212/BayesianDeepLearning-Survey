@@ -202,9 +202,19 @@ by Singh et al., NIPS 2019<br>
  by Jiang et al., NIPS 2020<br>
  [[PDF]](https://arxiv.org/pdf/2010.12152.pdf)
  
+ Denoising Diffusion Probabilistic Models<br>
+ by Ho et al., NIPS 2020<br>
+ [[PDF]](https://arxiv.org/pdf/2006.11239.pdf)
+ 
+Improved Denoising Diffusion Probabilistic Models<br>
+by Nichol et al., ICML 2021<br>
+[[PDF]](https://arxiv.org/pdf/2102.09672.pdf)
+ 
 Generative Interventions for Causal Learning.<br>
 by Mao et al., CVPR 2021<br>
 [[PDF]](http://wanghao.in/paper/CVPR21_GenInt.pdf)
+
+
 
 
 ## BDL and Control
@@ -344,6 +354,10 @@ by Dang-Nhu et al., ICML 2020<br>
 Neural Jump Stochastic Differential Equations<br>
 by Jia et al., NIPS 2019<br>
 [[PDF]](https://arxiv.org/pdf/1905.10403.pdf)
+
+Segmenting Hybrid Trajectories using Latent ODEs<br>
+by Shi et al., ICML 2021<br>
+[[PDF]](https://arxiv.org/pdf/2105.03835.pdf)
 
 ## BDL and Distributed/Federated Learning
 Stochastic Expectation Propagation<br>
