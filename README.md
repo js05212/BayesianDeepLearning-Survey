@@ -161,6 +161,10 @@ Towards Interpretable Clinical Diagnosis with Bayesian Network Ensembles Stacked
 by Chen et al., ACL 2020<br>
 [[PDF]](https://www.aclweb.org/anthology/2020.acl-main.286.pdf) [Cross Referenced in [BDL and Healthcare](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-healthcare)]
 
+What You Say and How You Say it: Joint Modeling of Topics and Discourse in Microblog Conversations<br>
+by Zeng et al., ACL 2020<br>
+[[PDF]](https://aclanthology.org/Q19-1017.pdf)
+
 ## BDL and Computer Vision
 Attend, Infer, Repeat: Fast Scene Understanding with Generative Models<br>
 by Eslami et al., NIPS 2016<br>
