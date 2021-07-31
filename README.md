@@ -222,7 +222,9 @@ Generative Interventions for Causal Learning.<br>
 by Mao et al., CVPR 2021<br>
 [[PDF]](http://wanghao.in/paper/CVPR21_GenInt.pdf)
 
-
+Adversarial Attacks are Reversible with Natural Supervision<br>
+by Mao et al., ICCV 2021<br>
+[[PDF]](http://www.wanghao.in/paper/ICCV21_ReverseAttack.pdf)
 
 
 ## BDL and Control
