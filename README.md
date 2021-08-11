@@ -377,6 +377,10 @@ End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Se
 by Rangapuram et al., ICML 2021<br>
 [[PDF]](http://proceedings.mlr.press/v139/rangapuram21a/rangapuram21a.pdf)
 
+Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting<br>
+by Rasul et al., ICML 2021<br>
+[[PDF]](http://proceedings.mlr.press/v139/rasul21a/rasul21a.pdf)
+
 ## BDL and Distributed/Federated Learning
 Stochastic Expectation Propagation<br>
 by Li et al., NIPS 2015<br>
