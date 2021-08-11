@@ -369,6 +369,10 @@ Segmenting Hybrid Trajectories using Latent ODEs<br>
 by Shi et al., ICML 2021<br>
 [[PDF]](https://arxiv.org/pdf/2105.03835.pdf)
 
+RNN with Particle Flow for Probabilistic Spatio-temporal Forecasting<br>
+by Pal et al., ICML 2021<br>
+[[PDF]](http://proceedings.mlr.press/v139/pal21b/pal21b.pdf)
+
 ## BDL and Distributed/Federated Learning
 Stochastic Expectation Propagation<br>
 by Li et al., NIPS 2015<br>
