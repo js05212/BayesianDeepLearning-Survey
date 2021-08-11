@@ -485,3 +485,7 @@ by Kristiadi et al., ICML 2020<br>
 Activation-level Uncertainty in Deep Neural Networks<br>
 by Morales-Alvarez et al., ICLR 2021<br>
 [[PDF]](https://openreview.net/pdf/6d7935927e30fe5bf2be87f8e871229560145392.pdf)
+
+Bayesian Deep Learning via Subnetwork Inference<br>
+by Daxberger et al., ICML 2021<br>
+[[PDF]](http://proceedings.mlr.press/v139/daxberger21a/daxberger21a.pdf)
