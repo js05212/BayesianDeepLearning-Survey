@@ -410,6 +410,10 @@ Keeping Neural Networks Simple by Minimizing the Description Length of the Weigh
 by Hinton et al., COLT 1993<br>
 [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.44.3435)
 
+Bayesian Learning via Stochastic Gradient Langevin Dynamics<br>
+by Welling et al., ICML 2011<br>
+[[PDF]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.3813&rep=rep1&type=pdf)
+
 Practical Variational Inference for Neural Networks<br>
 by Alex Graves, NIPS 2011<br>
 [[PDF]](https://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks)
