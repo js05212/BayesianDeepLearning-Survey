@@ -313,6 +313,10 @@ Deep Relational Topic Modeling via Graph Poisson Gamma Belief Network<br>
 by Wang et al., NIPS 2020<br>
 [[PDF]](https://proceedings.neurips.cc//paper/2020/hash/05ee45de8d877c3949760a94fa691533-Abstract.html)
 
+Sawtooth Factorial Topic Embeddings Guided Gamma Belief Network<br>
+by Duan et al., ICML 2021<br>
+[[PDF]](http://proceedings.mlr.press/v139/duan21b/duan21b.pdf)
+
 ## BDL and Speech Recognition/Synthesis
 
 Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data<br>
