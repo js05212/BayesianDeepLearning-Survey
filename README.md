@@ -317,6 +317,10 @@ Sawtooth Factorial Topic Embeddings Guided Gamma Belief Network<br>
 by Duan et al., ICML 2021<br>
 [[PDF]](http://proceedings.mlr.press/v139/duan21b/duan21b.pdf)
 
+Poisson-Randomised DirBN: Large Mutation is Needed in Dirichlet Belief Networks<br>
+by Fan et al., ICML 2021<br>
+[[PDF]](http://proceedings.mlr.press/v139/fan21a/fan21a.pdf)
+
 ## BDL and Speech Recognition/Synthesis
 
 Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data<br>
