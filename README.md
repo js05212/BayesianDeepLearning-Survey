@@ -202,6 +202,10 @@ Sequential Neural Processes<br>
 by Singh et al., NIPS 2019<br>
 [[PDF]](http://papers.nips.cc/paper/9214-sequential-neural-processes.pdf)
 
+SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention and Decomposition<br>
+by Lin et al., ICLR 2020<br>
+[[PDF]](https://arxiv.org/pdf/2001.02407.pdf)
+
  Being Bayesian about Categorical Probability<br>
  by Joo et al., ICML 2020<br>
  [[PDF]](https://proceedings.icml.cc/static/paper_files/icml/2020/3560-Paper.pdf)
