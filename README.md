@@ -249,6 +249,10 @@ Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics 
 by Chua et al., NIPS 2018<br>
 [[PDF]](https://proceedings.neurips.cc/paper/2018/file/3de568f8597b94bda53149c7d7f5958c-Paper.pdf)
 
+Robust Locally-Linear Controllable Embedding<br>
+by Banijamali et al., AISTATS 2018<br>
+[[PDF]](http://proceedings.mlr.press/v84/banijamali18a/banijamali18a.pdf)
+
 Learning Latent Dynamics for Planning from Pixels<br>
 by Hafner et al., ICML 2019<br>
 [[PDF]](https://arxiv.org/pdf/1811.04551.pdf)
