@@ -245,6 +245,10 @@ Probabilistic Recurrent State-Space Models<br>
 by Doerr et al., ICML 2018<br>
 [[PDF]](http://proceedings.mlr.press/v80/doerr18a/doerr18a.pdf)
 
+Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models<br>
+by Chua et al., NIPS 2018<br>
+[[PDF]](https://proceedings.neurips.cc/paper/2018/file/3de568f8597b94bda53149c7d7f5958c-Paper.pdf)
+
 Learning Latent Dynamics for Planning from Pixels<br>
 by Hafner et al., ICML 2019<br>
 [[PDF]](https://arxiv.org/pdf/1811.04551.pdf)
