@@ -401,6 +401,10 @@ Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Se
 by Rasul et al., ICML 2021<br>
 [[PDF]](http://proceedings.mlr.press/v139/rasul21a/rasul21a.pdf)
 
+Deep Explicit Duration Switching Models for Time Series<br>
+by Ansari et al., NIPS 2021<br>
+[[PDF]](https://arxiv.org/pdf/2110.13878.pdf)
+
 ## BDL and Distributed/Federated Learning
 Stochastic Expectation Propagation<br>
 by Li et al., NIPS 2015<br>
