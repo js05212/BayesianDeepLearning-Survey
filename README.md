@@ -230,6 +230,10 @@ Adversarial Attacks are Reversible with Natural Supervision<br>
 by Mao et al., ICCV 2021<br>
 [[PDF]](http://www.wanghao.in/paper/ICCV21_ReverseAttack.pdf)
 
+Counterfactual Zero-Shot and Open-Set Visual Recognition<br>
+by Yue et al., CVPR 2021<br>
+[[PDF]](https://arxiv.org/pdf/2103.00887.pdf)
+
 
 ## BDL and Control
 
