@@ -234,6 +234,10 @@ Counterfactual Zero-Shot and Open-Set Visual Recognition<br>
 by Yue et al., CVPR 2021<br>
 [[PDF]](https://arxiv.org/pdf/2103.00887.pdf)
 
+ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models<br>
+by Choi et al., ICCV 2021<br>
+[[PDF]](https://arxiv.org/pdf/2108.02938.pdf)
+
 
 ## BDL and Control
 
