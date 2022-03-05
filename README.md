@@ -238,6 +238,10 @@ ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models<br>
 by Choi et al., ICCV 2021<br>
 [[PDF]](https://arxiv.org/pdf/2108.02938.pdf)
 
+Relational Learning with Variational Bayes<br>
+by Liu, ICLR 2022<br>
+[[PDF]](https://openreview.net/pdf?id=Az-7gJc6lpr)
+
 
 ## BDL and Control
 
@@ -537,3 +541,7 @@ by Morales-Alvarez et al., ICLR 2021<br>
 Bayesian Deep Learning via Subnetwork Inference<br>
 by Daxberger et al., ICML 2021<br>
 [[PDF]](http://proceedings.mlr.press/v139/daxberger21a/daxberger21a.pdf)
+
+On the Pitfalls of Heteroscedastic Uncertainty Estimation with Probabilistic Neural Networks<br>
+by Seitzer et al., ICLR 2022<br>
+[[PDF]](https://openreview.net/pdf?id=aPOpXlnV1T)
