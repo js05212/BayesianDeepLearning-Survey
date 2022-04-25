@@ -379,6 +379,11 @@ Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech<br>
 by Popov et al., ICML 2021<br>
 [[PDF]](https://arxiv.org/pdf/2105.06337.pdf)
 
+STRODE: Stochastic Boundary Ordinary Differential Equation<br>
+by Huang et al., ICML 2021<br>
+[[PDF]](http://www.wanghao.in/paper/ICML21_STRODE.pdf)
+
+
 ## BDL and Forecasting (Time Series Analysis)
 
 DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks<br>
