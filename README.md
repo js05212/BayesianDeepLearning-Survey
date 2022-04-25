@@ -242,6 +242,10 @@ Relational Learning with Variational Bayes<br>
 by Liu, ICLR 2022<br>
 [[PDF]](https://openreview.net/pdf?id=Az-7gJc6lpr)
 
+Causal Transportability for Visual Recognition<br>
+by Mao, CVPR 2022<br>
+[[PDF]](http://wanghao.in/paper/CVPR22_CausalTrans.pdf)
+
 
 ## BDL and Control
 
@@ -306,6 +310,10 @@ by Li et al., NIPS 2020<br>
 Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs<br>
 by Ren et al., NIPS 2020<br>
 [[PDF]](https://arxiv.org/pdf/2010.11465.pdf)
+
+OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks<br>
+by Lin et al., CVPR 2022<br>
+[[PDF]](http://wanghao.in/paper/CVPR22_OrphicX.pdf)
 
 ## BDL and Topic Modeling
 
