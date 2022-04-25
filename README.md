@@ -13,7 +13,7 @@ Bayesian deep learning is a powerful framework for designing models across a wid
 * [BDL and Natural Language Processing (NLP)](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-nlp)
 * [BDL and Computer Vision (CV)](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-computer-vision)
 * [BDL and Control](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-control)
-* [BDL and Graphs (Link Prediction, Graph Neural Networks, etc.)](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-graphs-link-prediction-graph-neural-networks-etc)
+* [BDL and Graphs (Link Prediction, Graph Neural Networks, Knowledge Graphs, etc.)](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-graphs-link-prediction-graph-neural-networks-knowledge-graphs-etc)
 * [BDL and Topic Modeling](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-topic-modeling)
 * [BDL and Speech Recognition/Synthesis](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-speech-recognitionsynthesis)
 * [BDL and Forecasting (Time Series Analysis)](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-forecasting-time-series-analysis)
