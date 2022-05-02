@@ -437,9 +437,25 @@ by Li et al., NIPS 2015<br>
 [[PDF]](https://papers.nips.cc/paper/2015/file/f3bd5ad57c8389a8a1a541a76be463bf-Paper.pdf)
 
 ## BDL and Continual/Life-Long Learning
+Continual Learning with Deep Generative Replay<br>
+by Shin et al., NIPS 2017<br>
+[[PDF]](https://proceedings.neurips.cc/paper/2017/file/0efbe98067c6c73dba1250d2beaa81f9-Paper.pdf)
+
 Continual Unsupervised Representation Learning<br>
 by Rao et al., NIPS 2019<br>
 [[PDF]](https://arxiv.org/pdf/1910.14481.pdf)
+
+Life-Long Disentangled Representation Learning with Cross-Domain Latent Homologies<br>
+by Achille et al., NIPS 2018<br>
+[[PDF]](https://arxiv.org/pdf/1808.06508.pdf)
+
+Learning Latent Representations Across Multiple Data Domains Using Lifelong VAEGAN<br>
+by Ye et al., ECCV 2020<br>
+[[PDF]](https://dl.acm.org/doi/abs/10.1007/978-3-030-58565-5_46)
+
+A Neural Dirichlet Process Mixture Model for Task-Free Continual Learning<br>
+by Lee et al., ICLR 2020<br>
+[[PDF]](https://arxiv.org/abs/2001.00689)
 
 ## BDL as a Framework (Miscellaneous)
 
