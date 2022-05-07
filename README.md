@@ -84,6 +84,10 @@ Meta-Learning Probabilistic Inference For Prediction<br>
 by Gordon et al., ICLR 2019<br>
 [[PDF]](https://arxiv.org/abs/1805.09921)
 
+Learning to Learn with Variational Information Bottleneck for Domain Generalization<br>
+by Du et al., ECCV 2020<br>
+[[PDF]](https://arxiv.org/pdf/2007.07645.pdf)
+
 Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels<br>
 by Patacchiola et al., NIPS 2020<br>
 [[PDF]](https://arxiv.org/pdf/1910.05199.pdf)
