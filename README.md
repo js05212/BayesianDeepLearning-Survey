@@ -170,6 +170,10 @@ What You Say and How You Say it: Joint Modeling of Topics and Discourse in Micro
 by Zeng et al., ACL 2020<br>
 [[PDF]](https://aclanthology.org/Q19-1017.pdf)
 
+Latent Diffusion Energy-Based Model for Interpretable Text Modeling<br>
+by Yu et al., ICML 2022<br>
+[[PDF]](https://arxiv.org/abs/2206.05895)
+
 ## BDL and Computer Vision
 Attend, Infer, Repeat: Fast Scene Understanding with Generative Models<br>
 by Eslami et al., NIPS 2016<br>
@@ -384,6 +388,14 @@ Deep Graph Random Process for Relational-thinking-based Speech Recognition<br>
 by Huang et al., ICML 2020<br>
 [[PDF]](http://wanghao.in/paper/ICML20_DGP.pdf)
 
+DiffWave: A Versatile Diffusion Model for Audio Synthesis<br>
+by Kong et al., ICLR 2021<br>
+[[PDF]](https://arxiv.org/abs/2009.09761)
+
+WaveGrad: Estimating Gradients for Waveform Generation<br>
+by Chen et al., ICLR 2021<br>
+[[PDF]](https://arxiv.org/pdf/2009.00713.pdf)
+
 Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech<br>
 by Popov et al., ICML 2021<br>
 [[PDF]](https://arxiv.org/pdf/2105.06337.pdf)
@@ -438,6 +450,14 @@ by Rasul et al., ICML 2021<br>
 Deep Explicit Duration Switching Models for Time Series<br>
 by Ansari et al., NIPS 2021<br>
 [[PDF]](https://arxiv.org/pdf/2110.13878.pdf)
+
+Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting<br>
+by Rasul et al., ICML 2021<br>
+[[PDF]](https://arxiv.org/pdf/2101.12072.pdf)
+
+CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation<br>
+by Tashiro et al., NIPS 2021<br>
+[[PDF]](https://arxiv.org/pdf/2107.03502.pdf)
 
 ## BDL and Distributed/Federated Learning
 Stochastic Expectation Propagation<br>
