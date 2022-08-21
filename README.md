@@ -251,6 +251,10 @@ Relational Learning with Variational Bayes<br>
 by Liu, ICLR 2022<br>
 [[PDF]](https://openreview.net/pdf?id=Az-7gJc6lpr)
 
+High-Resolution Image Synthesis with Latent Diffusion Models<br>
+by Rombach et al., CVPR 2022<br>
+[[PDF]](https://arxiv.org/abs/2112.10752)
+
 Causal Transportability for Visual Recognition<br>
 by Mao, CVPR 2022<br>
 [[PDF]](http://wanghao.in/paper/CVPR22_CausalTrans.pdf)
