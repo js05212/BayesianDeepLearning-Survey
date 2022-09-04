@@ -255,6 +255,14 @@ High-Resolution Image Synthesis with Latent Diffusion Models<br>
 by Rombach et al., CVPR 2022<br>
 [[PDF]](https://arxiv.org/abs/2112.10752)
 
+GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models<br>
+by Nichol et al., ICML 2022<br>
+[[PDF]](https://proceedings.mlr.press/v162/nichol22a.html)
+
+Diffusion Models for Adversarial Purification<br>
+by Nie et al., ICML 2022<br>
+[[PDF]](https://proceedings.mlr.press/v162/nie22a.html)
+
 Causal Transportability for Visual Recognition<br>
 by Mao, CVPR 2022<br>
 [[PDF]](http://wanghao.in/paper/CVPR22_CausalTrans.pdf)
@@ -285,6 +293,10 @@ by Banijamali et al., AISTATS 2018<br>
 Learning Latent Dynamics for Planning from Pixels<br>
 by Hafner et al., ICML 2019<br>
 [[PDF]](https://arxiv.org/pdf/1811.04551.pdf)
+
+Planning with Diffusion for Flexible Behavior Synthesis<br>
+by Janner et al., ICML 2022<br>
+[[PDF]](https://proceedings.mlr.press/v162/janner22a.html)
 
 ## BDL and Graphs (Link Prediction, Graph Neural Networks, Knowledge Graphs, etc.)
 
@@ -331,6 +343,10 @@ by Xu et al., ICLR 2022<br>
 Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations<br>
 by Jo et al., ICML 2022<br>
 [[PDF]](https://proceedings.mlr.press/v162/jo22a.html)
+
+Equivariant Diffusion for Molecule Generation in 3D<br>
+by Hoogeboom et al., ICML 2022<br>
+[[PDF]](https://proceedings.mlr.press/v162/hoogeboom22a.html)
 
 OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks<br>
 by Lin et al., CVPR 2022<br>
@@ -407,6 +423,10 @@ by Chen et al., ICLR 2021<br>
 Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech<br>
 by Popov et al., ICML 2021<br>
 [[PDF]](https://arxiv.org/pdf/2105.06337.pdf)
+
+Guided-TTS: A Diffusion Model for Text-to-Speech via Classifier Guidance<br>
+by Kim et al., ICML 2022<br>
+[[PDF]](https://proceedings.mlr.press/v162/kim22d.html)
 
 STRODE: Stochastic Boundary Ordinary Differential Equation<br>
 by Huang et al., ICML 2021<br>
