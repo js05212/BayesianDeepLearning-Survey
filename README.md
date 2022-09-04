@@ -271,6 +271,10 @@ Label-Efficient Semantic Segmentation with Diffusion Models<br>
 by Baranchuk et al., ICLR 2022<br>
 [[PDF]](https://iclr.cc/virtual/2022/poster/6569)
 
+Learning Fast Samplers for Diffusion Models by Differentiating Through Sample Quality<br>
+by Watson et al., ICLR 2022<br>
+[[PDF]](https://openreview.net/pdf?id=VFBjuF8HEp)
+
 Causal Transportability for Visual Recognition<br>
 by Mao, CVPR 2022<br>
 [[PDF]](http://wanghao.in/paper/CVPR22_CausalTrans.pdf)
