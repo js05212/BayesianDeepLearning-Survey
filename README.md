@@ -12,7 +12,7 @@ Bayesian deep learning is a powerful framework for designing models across a wid
 * [BDL and Healthcare](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-healthcare)
 * [BDL and Natural Language Processing (NLP)](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-nlp)
 * [BDL and Computer Vision (CV)](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-computer-vision)
-* [BDL and Control](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-control)
+* [BDL and Control/Planning](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-controlplanning)
 * [BDL and Graphs (Link Prediction, Graph Neural Networks, Knowledge Graphs, etc.)](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-graphs-link-prediction-graph-neural-networks-knowledge-graphs-etc)
 * [BDL and Topic Modeling](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-topic-modeling)
 * [BDL and Speech Recognition/Synthesis](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-speech-recognitionsynthesis)
@@ -280,7 +280,7 @@ by Mao, CVPR 2022<br>
 [[PDF]](http://wanghao.in/paper/CVPR22_CausalTrans.pdf)
 
 
-## BDL and Control
+## BDL and Control/Planning
 
 Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images<br>
 by Watter et al., NIPS 2015<br>
