@@ -360,6 +360,10 @@ Equivariant Diffusion for Molecule Generation in 3D<br>
 by Hoogeboom et al., ICML 2022<br>
 [[PDF]](https://proceedings.mlr.press/v162/hoogeboom22a.html)
 
+Crystal Diffusion Variational Autoencoder for Periodic Material Generation<br>
+by Xie et al., ICLR 2022<br>
+[[PDF]](https://openreview.net/pdf?id=03RLpj-tc_)
+
 OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks<br>
 by Lin et al., CVPR 2022<br>
 [[PDF]](http://wanghao.in/paper/CVPR22_OrphicX.pdf)
