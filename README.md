@@ -328,6 +328,10 @@ GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation<br>
 by Xu et al., ICLR 2022<br>
 [[PDF]](https://arxiv.org/pdf/2203.02923.pdf)
 
+Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations<br>
+by Jo et al., ICML 2022<br>
+[[PDF]](https://proceedings.mlr.press/v162/jo22a.html)
+
 OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks<br>
 by Lin et al., CVPR 2022<br>
 [[PDF]](http://wanghao.in/paper/CVPR22_OrphicX.pdf)
