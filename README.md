@@ -660,3 +660,7 @@ by Daxberger et al., ICML 2021<br>
 On the Pitfalls of Heteroscedastic Uncertainty Estimation with Probabilistic Neural Networks<br>
 by Seitzer et al., ICLR 2022<br>
 [[PDF]](https://openreview.net/pdf?id=aPOpXlnV1T)
+
+How Tempering Fixes Data Augmentation in Bayesian Neural Networks<br>
+by Bachmann et al., ICML 2022<br>
+[[PDF]](https://proceedings.mlr.press/v162/bachmann22a/bachmann22a.pdf)
