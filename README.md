@@ -310,6 +310,10 @@ Planning with Diffusion for Flexible Behavior Synthesis<br>
 by Janner et al., ICML 2022<br>
 [[PDF]](https://proceedings.mlr.press/v162/janner22a.html)
 
+A Hierarchical Bayesian Approach to Inverse Reinforcement Learning with Symbolic Reward Machines<br>
+by Zhou et al., ICML 2022<br>
+[[PDF]](https://proceedings.mlr.press/v162/zhou22b/zhou22b.pdf)
+
 ## BDL and Graphs (Link Prediction, Graph Neural Networks, Knowledge Graphs, etc.)
 
 Relational Deep Learning: A Deep Latent Variable Model for Link Prediction<br>
