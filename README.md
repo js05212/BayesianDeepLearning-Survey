@@ -263,6 +263,14 @@ Diffusion Models for Adversarial Purification<br>
 by Nie et al., ICML 2022<br>
 [[PDF]](https://proceedings.mlr.press/v162/nie22a.html)
 
+A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion<br>
+by Lyu et al., ICLR 2022<br>
+[[PDF]](https://iclr.cc/virtual/2022/poster/7026)
+
+Label-Efficient Semantic Segmentation with Diffusion Models<br>
+by Baranchuk et al., ICLR 2022<br>
+[[PDF]](https://iclr.cc/virtual/2022/poster/6569)
+
 Causal Transportability for Visual Recognition<br>
 by Mao, CVPR 2022<br>
 [[PDF]](http://wanghao.in/paper/CVPR22_CausalTrans.pdf)
@@ -424,13 +432,21 @@ Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech<br>
 by Popov et al., ICML 2021<br>
 [[PDF]](https://arxiv.org/pdf/2105.06337.pdf)
 
+STRODE: Stochastic Boundary Ordinary Differential Equation<br>
+by Huang et al., ICML 2021<br>
+[[PDF]](http://www.wanghao.in/paper/ICML21_STRODE.pdf)
+
 Guided-TTS: A Diffusion Model for Text-to-Speech via Classifier Guidance<br>
 by Kim et al., ICML 2022<br>
 [[PDF]](https://proceedings.mlr.press/v162/kim22d.html)
 
-STRODE: Stochastic Boundary Ordinary Differential Equation<br>
-by Huang et al., ICML 2021<br>
-[[PDF]](http://www.wanghao.in/paper/ICML21_STRODE.pdf)
+Diffusion-Based Voice Conversion with Fast Maximum Likelihood Sampling Scheme<br>
+by Popov et al., ICLR 2022<br>
+[[PDF]](https://openreview.net/forum?id=8c50f-DoWAu)
+
+BDDM: Bilateral Denoising Diffusion Models for Fast and High-Quality Speech Synthesis<br>
+by Lam et al., ICLR 2022<br>
+[[PDF]](https://iclr.cc/virtual/2022/poster/6010)
 
 
 ## BDL and Forecasting (Time Series Analysis)
