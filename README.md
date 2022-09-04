@@ -515,6 +515,10 @@ CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imp
 by Tashiro et al., NIPS 2021<br>
 [[PDF]](https://arxiv.org/pdf/2107.03502.pdf)
 
+TACTiS: Transformer-Attentional Copulas for Time Series<br>
+by Drouin et al., ICML 2022<br>
+[[PDF]](https://proceedings.mlr.press/v162/drouin22a/drouin22a.pdf)
+
 ## BDL and Distributed/Federated Learning
 Stochastic Expectation Propagation<br>
 by Li et al., NIPS 2015<br>
