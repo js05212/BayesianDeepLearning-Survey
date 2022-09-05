@@ -368,6 +368,10 @@ LIMO: Latent Inceptionism for Targeted Molecule Generation<br>
 by Eckmann et al., ICML 2022<br>
 [[PDF]](https://proceedings.mlr.press/v162/eckmann22a/eckmann22a.pdf)
 
+3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design<br>
+by Huang et al., ICML 2022<br>
+[[PDF]](https://proceedings.mlr.press/v162/huang22g/huang22g.pdf)
+
 Crystal Diffusion Variational Autoencoder for Periodic Material Generation<br>
 by Xie et al., ICLR 2022<br>
 [[PDF]](https://openreview.net/pdf?id=03RLpj-tc_)
