@@ -523,6 +523,10 @@ Reconstructing Nonlinear Dynamical Systems from Multi-Modal Time Series<br>
 by Kramer et al., ICML 2022<br>
 [[PDF]](https://proceedings.mlr.press/v162/kramer22a/kramer22a.pdf)
 
+Deep Variational Graph Convolutional Recurrent Network for Multivariate Time Series Anomaly Detection<br>
+by Chen et al., ICML 2022<br>
+[[PDF]](https://proceedings.mlr.press/v162/chen22x.html)
+
 ## BDL and Distributed/Federated Learning
 Stochastic Expectation Propagation<br>
 by Li et al., NIPS 2015<br>
