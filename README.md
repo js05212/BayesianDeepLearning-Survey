@@ -364,6 +364,10 @@ Equivariant Diffusion for Molecule Generation in 3D<br>
 by Hoogeboom et al., ICML 2022<br>
 [[PDF]](https://proceedings.mlr.press/v162/hoogeboom22a.html)
 
+LIMO: Latent Inceptionism for Targeted Molecule Generation<br>
+by Eckmann et al., ICML 2022<br>
+[[PDF]](https://proceedings.mlr.press/v162/eckmann22a/eckmann22a.pdf)
+
 Crystal Diffusion Variational Autoencoder for Periodic Material Generation<br>
 by Xie et al., ICLR 2022<br>
 [[PDF]](https://openreview.net/pdf?id=03RLpj-tc_)
