@@ -519,6 +519,10 @@ TACTiS: Transformer-Attentional Copulas for Time Series<br>
 by Drouin et al., ICML 2022<br>
 [[PDF]](https://proceedings.mlr.press/v162/drouin22a/drouin22a.pdf)
 
+Reconstructing Nonlinear Dynamical Systems from Multi-Modal Time Series<br>
+by Kramer et al., ICML 2022<br>
+[[PDF]](https://proceedings.mlr.press/v162/kramer22a/kramer22a.pdf)
+
 ## BDL and Distributed/Federated Learning
 Stochastic Expectation Propagation<br>
 by Li et al., NIPS 2015<br>
