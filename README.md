@@ -275,6 +275,10 @@ Learning Fast Samplers for Diffusion Models by Differentiating Through Sample Qu
 by Watson et al., ICLR 2022<br>
 [[PDF]](https://openreview.net/pdf?id=VFBjuF8HEp)
 
+Flexible Diffusion Modeling of Long Videos<br>
+by Harvey et al., NIPS 2022<br>
+[[PDF]](https://arxiv.org/pdf/2205.11495.pdf)
+
 Causal Transportability for Visual Recognition<br>
 by Mao, CVPR 2022<br>
 [[PDF]](http://wanghao.in/paper/CVPR22_CausalTrans.pdf)
