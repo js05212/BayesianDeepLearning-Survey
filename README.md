@@ -219,6 +219,10 @@ by Lin et al., ICLR 2020<br>
  by Joo et al., ICML 2020<br>
  [[PDF]](https://proceedings.icml.cc/static/paper_files/icml/2020/3560-Paper.pdf)
  
+ Learning Latent Space Energy-Based Prior Model<br>
+ by Pang et al., NIPS 2020<br>
+ [[PDF]](https://arxiv.org/pdf/2006.08205.pdf)
+ 
  Generative Neurosymbolic Machines<br>
  by Jiang et al., NIPS 2020<br>
  [[PDF]](https://arxiv.org/pdf/2010.12152.pdf)
