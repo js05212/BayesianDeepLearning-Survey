@@ -434,6 +434,10 @@ Torsional Diffusion for Molecular Conformer Generation<br>
 by Jing et al., NIPS 2022<br>
 [[PDF]](https://openreview.net/pdf?id=w6fj2r62r_H)
 
+Knowledge-Aware Bayesian Deep Topic Model<br>
+by Wang et al., NIPS 2022<br>
+[[PDF]](https://openreview.net/forum?id=N2AGw9s-wvX)
+
 ## BDL and Speech Recognition/Synthesis
 
 Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data<br>
