@@ -287,6 +287,10 @@ Causal Transportability for Visual Recognition<br>
 by Mao, CVPR 2022<br>
 [[PDF]](http://wanghao.in/paper/CVPR22_CausalTrans.pdf)
 
+Posterior Matching for Arbitrary Conditioning<br>
+by Strauss, NIPS 2022<br>
+[[PDF]](https://openreview.net/pdf?id=EFnI8Qc--jE)
+
 
 ## BDL and Control/Planning
 
