@@ -426,6 +426,10 @@ Poisson-Randomised DirBN: Large Mutation is Needed in Dirichlet Belief Networks<
 by Fan et al., ICML 2021<br>
 [[PDF]](http://proceedings.mlr.press/v139/fan21a/fan21a.pdf)
 
+Torsional Diffusion for Molecular Conformer Generation<br>
+by Jing et al., NIPS 2022<br>
+[[PDF]](https://openreview.net/pdf?id=w6fj2r62r_H)
+
 ## BDL and Speech Recognition/Synthesis
 
 Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data<br>
