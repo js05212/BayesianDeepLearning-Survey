@@ -284,12 +284,16 @@ by Harvey et al., NIPS 2022<br>
 [[PDF]](https://arxiv.org/pdf/2205.11495.pdf)
 
 Causal Transportability for Visual Recognition<br>
-by Mao, CVPR 2022<br>
+by Mao et al., CVPR 2022<br>
 [[PDF]](http://wanghao.in/paper/CVPR22_CausalTrans.pdf)
 
 Posterior Matching for Arbitrary Conditioning<br>
-by Strauss, NIPS 2022<br>
+by Strauss et al., NIPS 2022<br>
 [[PDF]](https://openreview.net/pdf?id=EFnI8Qc--jE)
+
+On the Relationship between Variational Inference and Auto-Associative Memory<br>
+by Annabi et al., NIPS 2022<br>
+[[PDF]](https://openreview.net/pdf?id=uCBx_6Hc7cu)
 
 
 ## BDL and Control/Planning
