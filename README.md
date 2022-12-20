@@ -492,6 +492,10 @@ BDDM: Bilateral Denoising Diffusion Models for Fast and High-Quality Speech Synt
 by Lam et al., ICLR 2022<br>
 [[PDF]](https://iclr.cc/virtual/2022/poster/6010)
 
+Unsupervised Mismatch Localization in Cross-Modal Sequential Data with Application to Mispronunciations Localization<br>
+by Wei et al., TMLR 2022<br>
+[[PDF]](http://wanghao.in/paper/TMLR22_ML-VAE.pdf)
+
 
 ## BDL and Forecasting (Time Series Analysis)
 
