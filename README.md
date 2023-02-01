@@ -231,6 +231,10 @@ by Lin et al., ICLR 2020<br>
  by Ho et al., NIPS 2020<br>
  [[PDF]](https://arxiv.org/pdf/2006.11239.pdf)
  
+A Causal View of Compositional Zero-shot Recognition<br>
+by Atzmon et al., NIPS 2020<br>
+[[PDF]](https://arxiv.org/pdf/2006.14610.pdf)
+ 
 Improved Denoising Diffusion Probabilistic Models<br>
 by Nichol et al., ICML 2021<br>
 [[PDF]](https://arxiv.org/pdf/2102.09672.pdf)
@@ -294,6 +298,8 @@ by Strauss et al., NIPS 2022<br>
 On the Relationship between Variational Inference and Auto-Associative Memory<br>
 by Annabi et al., NIPS 2022<br>
 [[PDF]](https://openreview.net/pdf?id=uCBx_6Hc7cu)
+
+
 
 
 ## BDL and Control/Planning
