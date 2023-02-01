@@ -234,6 +234,10 @@ by Lin et al., ICLR 2020<br>
 A Causal View of Compositional Zero-shot Recognition<br>
 by Atzmon et al., NIPS 2020<br>
 [[PDF]](https://arxiv.org/pdf/2006.14610.pdf)
+
+Counterfactuals Uncover the Modular Structure of Deep Generative Models<br>
+by Besserve et al., ICLR 2020<br>
+[[PDF]](https://openreview.net/pdf?id=SJxDDpEKvH)
  
 Improved Denoising Diffusion Probabilistic Models<br>
 by Nichol et al., ICML 2021<br>
