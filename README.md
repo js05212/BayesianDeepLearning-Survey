@@ -138,7 +138,7 @@ by Chen et al., ACL 2020<br>
 
 Continuously Indexed Domain Adaptation<br>
 by Wang et al., ICML 2020<br>
-[[PDF]](http://wanghao.in/paper/ICML20_CIDA.pdf) [Cross Referenced in [BDL and Domain Adaptation](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-domain-adaptation)]
+[[PDF]](http://wanghao.in/paper/ICML20_CIDA.pdf) [Cross Referenced in [BDL and Domain Adaptation](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-domain-adaptation-and-domain-generalization-meta-learning-etc)]
 
 Assessment of medication self-administration using artificial intelligence<br>
 by Zhao et al., Nature Medicine 2021<br>
