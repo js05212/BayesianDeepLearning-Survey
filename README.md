@@ -238,6 +238,10 @@ by Atzmon et al., NIPS 2020<br>
 Counterfactuals Uncover the Modular Structure of Deep Generative Models<br>
 by Besserve et al., ICLR 2020<br>
 [[PDF]](https://openreview.net/pdf?id=SJxDDpEKvH)
+
+ROOTS: Object-Centric Representation and Rendering of 3D Scenes<br>
+by Chen et al., JMLR 2021<br>
+[[PDF]](https://jmlr.csail.mit.edu/papers/volume22/20-1176/20-1176.pdf)
  
 Improved Denoising Diffusion Probabilistic Models<br>
 by Nichol et al., ICML 2021<br>
