@@ -100,6 +100,11 @@ A Bit More Bayesian: Domain-Invariant Learning with Uncertainty<br>
 by Xiao et al., ICML 2021<br>
 [[PDF]](https://arxiv.org/pdf/2105.04030.pdf)
 
+Domain-Indexing Variational Bayes: Interpretable Domain Index for Domain Adaptation<br>
+by Xu et al., ICLR 2023<br>
+[[PDF]](http://wanghao.in/paper/ICLR23_VDI.pdf)
+
+
 
 
 ## BDL and Healthcare
