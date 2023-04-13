@@ -179,6 +179,10 @@ Latent Diffusion Energy-Based Model for Interpretable Text Modeling<br>
 by Yu et al., ICML 2022<br>
 [[PDF]](https://arxiv.org/abs/2206.05895)
 
+Diffusion-LM Improves Controllable Text Generation<br>
+by Li et al., NeurIPS 2022<br>
+[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2022/file/1be5bc25d50895ee656b8c2d9eb89d6a-Paper-Conference.pdf)
+
 ## BDL and Computer Vision
 Attend, Infer, Repeat: Fast Scene Understanding with Generative Models<br>
 by Eslami et al., NIPS 2016<br>
