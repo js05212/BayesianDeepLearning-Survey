@@ -272,6 +272,10 @@ ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models<br>
 by Choi et al., ICCV 2021<br>
 [[PDF]](https://arxiv.org/pdf/2108.02938.pdf)
 
+Diffusion Models Beat GANs on Image Synthesis<br>
+by Dhariwal et al., NIPS 2021<br>
+[[PDF]](https://arxiv.org/pdf/2105.05233.pdf)
+
 Relational Learning with Variational Bayes<br>
 by Liu, ICLR 2022<br>
 [[PDF]](https://openreview.net/pdf?id=Az-7gJc6lpr)
