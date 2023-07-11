@@ -324,7 +324,9 @@ On the Relationship between Variational Inference and Auto-Associative Memory<br
 by Annabi et al., NIPS 2022<br>
 [[PDF]](https://openreview.net/pdf?id=uCBx_6Hc7cu)
 
-
+Robust Perception through Equivariance<br>
+by Mao et al., ICML 2023<br>
+[[PDF]](http://wanghao.in/paper/ICML23_RobustEquivariance.pdf)
 
 
 ## BDL and Control/Planning
