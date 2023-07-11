@@ -153,6 +153,10 @@ Neural Pharmacodynamic State Space Modeling<br>
 by Hussain et al., ICML 2021<br>
 [[PDF]](https://arxiv.org/pdf/2102.11218.pdf)
 
+Self-Interpretable Time Series Prediction with Counterfactual Explanations<br>
+by Yan et al., ICML 2023<br>
+[[PDF]](http://wanghao.in/paper/ICML23_CounTS.pdf) [Cross Referenced in [BDL and Forecasting (Time Series Analysis)](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-forecasting-time-series-analysis)]
+
 ## BDL and NLP
 
 Sequence to Better Sequence: Continuous Revision of Combinatorial Structures<br>
@@ -589,6 +593,10 @@ by Kramer et al., ICML 2022<br>
 Deep Variational Graph Convolutional Recurrent Network for Multivariate Time Series Anomaly Detection<br>
 by Chen et al., ICML 2022<br>
 [[PDF]](https://proceedings.mlr.press/v162/chen22x.html)
+
+Self-Interpretable Time Series Prediction with Counterfactual Explanations<br>
+by Yan et al., ICML 2023<br>
+[[PDF]](http://wanghao.in/paper/ICML23_CounTS.pdf) [Cross Referenced in [BDL and Healthcare](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-healthcare)]
 
 ## BDL and Distributed/Federated Learning
 Stochastic Expectation Propagation<br>
