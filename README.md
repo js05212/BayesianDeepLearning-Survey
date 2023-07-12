@@ -312,6 +312,10 @@ Flexible Diffusion Modeling of Long Videos<br>
 by Harvey et al., NIPS 2022<br>
 [[PDF]](https://arxiv.org/pdf/2205.11495.pdf)
 
+ProtoVAE: A Trustworthy Self-Explainable Prototypical Variational Model<br>
+by Gautam et al., NIPS 2022<br>
+[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2022/file/722f3f9298a961d2639eadd3f14a2816-Paper-Conference.pdf)
+
 Causal Transportability for Visual Recognition<br>
 by Mao et al., CVPR 2022<br>
 [[PDF]](http://wanghao.in/paper/CVPR22_CausalTrans.pdf)
