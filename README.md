@@ -600,6 +600,10 @@ Deep Variational Graph Convolutional Recurrent Network for Multivariate Time Ser
 by Chen et al., ICML 2022<br>
 [[PDF]](https://proceedings.mlr.press/v162/chen22x.html)
 
+Vector Quantized Time Series Generation with a Bidirectional Prior Model<br>
+by Lee at al., AISTATS 2023<br>
+[[PDF]](https://arxiv.org/pdf/2303.04743.pdf)
+
 Self-Interpretable Time Series Prediction with Counterfactual Explanations<br>
 by Yan et al., ICML 2023<br>
 [[PDF]](http://wanghao.in/paper/ICML23_CounTS.pdf) [Cross Referenced in [BDL and Healthcare](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-healthcare)]
