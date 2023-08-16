@@ -765,3 +765,8 @@ by Kandemir et al., ICLR 2022<br>
 How Tempering Fixes Data Augmentation in Bayesian Neural Networks<br>
 by Bachmann et al., ICML 2022<br>
 [[PDF]](https://proceedings.mlr.press/v162/bachmann22a/bachmann22a.pdf)
+
+SIMPLE: A Gradient Estimator for k-Subset Sampling<br>
+by Ahmed et al., ICLR 2023<br>
+[[PDF]](https://openreview.net/forum?id=GPJVuyX4p_h)
+[[PDF]](https://proceedings.mlr.press/v162/bachmann22a/bachmann22a.pdf)
