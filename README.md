@@ -332,6 +332,10 @@ Robust Perception through Equivariance<br>
 by Mao et al., ICML 2023<br>
 [[PDF]](http://wanghao.in/paper/ICML23_RobustEquivariance.pdf)
 
+Object-Centric Slot Diffusion<br>
+by Jiang et al. NeurIPS 2023<br>
+[[PDF]](https://arxiv.org/abs/2303.10834)
+
 
 ## BDL and Control/Planning
 
