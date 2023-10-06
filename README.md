@@ -773,3 +773,7 @@ by Bachmann et al., ICML 2022<br>
 SIMPLE: A Gradient Estimator for k-Subset Sampling<br>
 by Ahmed et al., ICLR 2023<br>
 [[PDF]](https://openreview.net/forum?id=GPJVuyX4p_h)
+
+Variational Imbalanced Regression: Fair Uncertainty Quantification via Probabilistic Smoothing<br>
+by Wang et al., NeurIPS 2023<br>
+[[PDF]](http://www.wanghao.in/paper/NIPS23_VIR.pdf)
