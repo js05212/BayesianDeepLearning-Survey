@@ -774,6 +774,10 @@ SIMPLE: A Gradient Estimator for k-Subset Sampling<br>
 by Ahmed et al., ICLR 2023<br>
 [[PDF]](https://openreview.net/forum?id=GPJVuyX4p_h)
 
+Collapsed Inference for Bayesian Deep Learning<br>
+by Zeng et al., NeurIPS 2023<br>
+[[PDF]](https://arxiv.org/pdf/2306.09686.pdf)
+
 Variational Imbalanced Regression: Fair Uncertainty Quantification via Probabilistic Smoothing<br>
 by Wang et al., NeurIPS 2023<br>
 [[PDF]](http://www.wanghao.in/paper/NIPS23_VIR.pdf)
