@@ -336,6 +336,10 @@ Object-Centric Slot Diffusion<br>
 by Jiang et al. NeurIPS 2023<br>
 [[PDF]](https://arxiv.org/abs/2303.10834)
 
+PreDiff: Precipitation Nowcasting with Latent Diffusion Models<br>
+by Gao et al., NeurIPS 2023<br>
+[[PDF]](https://arxiv.org/abs/2307.10422)
+
 
 ## BDL and Control/Planning
 
