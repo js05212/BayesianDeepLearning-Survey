@@ -187,6 +187,10 @@ Diffusion-LM Improves Controllable Text Generation<br>
 by Li et al., NeurIPS 2022<br>
 [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2022/file/1be5bc25d50895ee656b8c2d9eb89d6a-Paper-Conference.pdf)
 
+Tractable Control for Autoregressive Language Generation<br>
+by Zhang et al., ICML 2023<br>
+[[PDF]](https://arxiv.org/pdf/2304.07438.pdf)
+
 ## BDL and Computer Vision
 Attend, Infer, Repeat: Fast Scene Understanding with Generative Models<br>
 by Eslami et al., NIPS 2016<br>
