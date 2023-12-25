@@ -756,7 +756,7 @@ by Pakman et al., ICML 2020<br>
 
 Being Bayesian, Even Just a Bit, Fixes Overconfidence in ReLU Networks<br>
 by Kristiadi et al., ICML 2020<br>
-[[PDF]](https://proceedings.icml.cc/static/paper_files/icml/2020/780-Paper.pdf)
+[[PDF]](http://proceedings.mlr.press/v119/kristiadi20a/kristiadi20a.pdf)
 
 Activation-level Uncertainty in Deep Neural Networks<br>
 by Morales-Alvarez et al., ICLR 2021<br>
