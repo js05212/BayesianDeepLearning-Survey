@@ -738,6 +738,10 @@ Glow: Generative Flow with Invertible 1x1 Convolutions<br>
 by Kingma et al., NIPS 2018<br>
 [[PDF]](https://papers.nips.cc/paper/8224-glow-generative-flow-with-invertible-1x1-convolutions.pdf)
 
+Evidential Deep Learning to Quantify Classification Uncertainty<br>
+by Sensoy et al., NIPS 2018<br>
+[[PDF]](https://papers.nips.cc/paper_files/paper/2018/file/a981f2b708044d6fb4a71a1463242520-Paper.pdf)
+
 ProbGAN: Towards Probabilistic GAN with Theoretical Guarantees<br>
 by He et al., ICLR 2019<br>
 [[PDF]](http://wanghao.in/paper/ICLR19_ProbGAN.pdf) [[Project Page]](https://github.com/hehaodele/ProbGAN)
