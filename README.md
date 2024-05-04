@@ -235,6 +235,10 @@ by Lin et al., ICLR 2020<br>
  Being Bayesian about Categorical Probability<br>
  by Joo et al., ICML 2020<br>
  [[PDF]](https://proceedings.icml.cc/static/paper_files/icml/2020/3560-Paper.pdf)
+
+ NVAE: A Deep Hierarchical Variational Autoencoder<br>
+ by Vahdat et al., NIPS 2020<br>
+ [[PDF]](https://arxiv.org/abs/2007.03898)
  
  Learning Latent Space Energy-Based Prior Model<br>
  by Pang et al., NIPS 2020<br>
