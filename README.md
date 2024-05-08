@@ -348,6 +348,10 @@ PreDiff: Precipitation Nowcasting with Latent Diffusion Models<br>
 by Gao et al., NeurIPS 2023<br>
 [[PDF]](https://arxiv.org/abs/2307.10422)
 
+Diffusion Posterior Sampling for Linear Inverse Problem Solving: A Filtering Perspective<br>
+by Dou et al., ICLR 2024<br>
+[[PDF]](https://openreview.net/forum?id=tplXNcHZs1)
+
 
 ## BDL and Control/Planning
 
