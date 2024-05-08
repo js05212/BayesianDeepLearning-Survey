@@ -664,6 +664,10 @@ Composing Graphical Models with Neural Networks for Structured Representations a
 by Johnson et al., NIPS 2016<br>
 [[PDF]](https://arxiv.org/abs/1603.06277)
 
+Energy-Based Concept Bottleneck Models: Unifying Prediction, Concept Intervention, and Probabilistic Interpretations<br>
+by Xu et al., ICLR 2024<br>
+[[PDF]](http://wanghao.in/paper/ICLR24_ECBM.pdf)
+
 ## Bayesian/Probabilistic Neural Networks as Building Blocks of BDL
 
 Learning Stochastic Feedforward Networks<br>
