@@ -639,6 +639,10 @@ Dirichlet Flow Matching with Applications to DNA Sequence Design<br>
 by Stark et al., ICML 2024<br>
 [[PDF]](https://arxiv.org/pdf/2402.05841)
 
+Particle Guidance: non-I.I.D. Diverse Sampling with Diffusion Models<br>
+by Corso et al., ICLR 2024<br>
+[[PDF]](https://openreview.net/pdf?id=KqbCvIFBY7)
+
 ## BDL and Continual/Life-Long Learning
 Continual Learning with Deep Generative Replay<br>
 by Shin et al., NIPS 2017<br>
