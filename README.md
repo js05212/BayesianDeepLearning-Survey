@@ -19,6 +19,7 @@ Bayesian deep learning is a powerful framework for designing models across a wid
 * [BDL and Forecasting (Time Series Analysis)](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-forecasting-time-series-analysis)
 * [BDL and Distributed/Federated Learning](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-distributedfederated-learning)
 * [BDL and Continual/Life-Long Learning](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-continuallife-long-learning)
+* [BDL and AI4Science](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-ai4science)
 * [BDL as a Framework (Miscellaneous)](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-as-a-framework-miscellaneous)
 * [Bayesian/Probabilistic Neural Networks as Building Blocks of BDL](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bayesianprobabilistic-neural-networks-as-building-blocks-of-bdl)
 
@@ -632,6 +633,11 @@ by Yan et al., ICML 2023<br>
 Stochastic Expectation Propagation<br>
 by Li et al., NIPS 2015<br>
 [[PDF]](https://papers.nips.cc/paper/2015/file/f3bd5ad57c8389a8a1a541a76be463bf-Paper.pdf)
+
+## BDL and AI4Science
+Dirichlet Flow Matching with Applications to DNA Sequence Design
+by Stark et al., ICML 2024<br>
+[[PDF]](https://arxiv.org/pdf/2402.05841)
 
 ## BDL and Continual/Life-Long Learning
 Continual Learning with Deep Generative Replay<br>
