@@ -635,7 +635,7 @@ by Li et al., NIPS 2015<br>
 [[PDF]](https://papers.nips.cc/paper/2015/file/f3bd5ad57c8389a8a1a541a76be463bf-Paper.pdf)
 
 ## BDL and AI4Science
-Dirichlet Flow Matching with Applications to DNA Sequence Design
+Dirichlet Flow Matching with Applications to DNA Sequence Design<br>
 by Stark et al., ICML 2024<br>
 [[PDF]](https://arxiv.org/pdf/2402.05841)
 
