@@ -353,6 +353,10 @@ Diffusion Posterior Sampling for Linear Inverse Problem Solving: A Filtering Per
 by Dou et al., ICLR 2024<br>
 [[PDF]](https://openreview.net/forum?id=tplXNcHZs1)
 
+Counterfactual Image Editing
+by Pan et al., ICML 2024<br>
+[[PDF]](https://proceedings.mlr.press/v235/pan24a.html)
+
 Probabilistic Conceptual Explainers: Towards Trustworthy Conceptual Explanations for Vision Foundation Models<br>
 by Wang et al., ICML 2024<br>
 [[PDF]](http://wanghao.in/paper/ICML24_PACE.pdf)
