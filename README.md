@@ -357,6 +357,10 @@ Directly Denoising Diffusion Models<br>
 by Zhang et al., ICML 2024<br>
 [[PDF]](https://proceedings.mlr.press/v235/zhang24bl.html)
 
+Causal Representation Learning Made Identifiable by Grouping of Observational Variables<br>
+by Morioka et al., ICML 2024<br>
+[[PDF]](https://proceedings.mlr.press/v235/morioka24a.html)
+
 Counterfactual Image Editing
 by Pan et al., ICML 2024<br>
 [[PDF]](https://proceedings.mlr.press/v235/pan24a.html)
