@@ -641,6 +641,10 @@ Self-Interpretable Time Series Prediction with Counterfactual Explanations<br>
 by Yan et al., ICML 2023<br>
 [[PDF]](http://wanghao.in/paper/ICML23_CounTS.pdf) [Cross Referenced in [BDL and Healthcare](https://github.com/js05212/BayesianDeepLearning-Survey/blob/master/README.md#bdl-and-healthcare)]
 
+CauDiTS: Causal Disentangled Domain Adaptation of Multivariate Time Series<br>
+by Lu et al., ICML 2024<br>
+[[PDF]](https://proceedings.mlr.press/v235/lu24i.html)
+
 ## BDL and Distributed/Federated Learning
 Stochastic Expectation Propagation<br>
 by Li et al., NIPS 2015<br>
