@@ -289,6 +289,14 @@ Diffusion Models Beat GANs on Image Synthesis<br>
 by Dhariwal et al., NIPS 2021<br>
 [[PDF]](https://arxiv.org/pdf/2105.05233.pdf)
 
+DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensional Latents<br>
+by Pandey et al., TMLR 2022<br>
+[[PDF]](https://arxiv.org/pdf/2201.00308)
+
+Diffusion Causal Models for Counterfactual Estimation<br>
+by Sanchez et al., CleaR 2022<br>
+[[PDF]](https://arxiv.org/abs/2202.10166)
+
 Relational Learning with Variational Bayes<br>
 by Liu, ICLR 2022<br>
 [[PDF]](https://openreview.net/pdf?id=Az-7gJc6lpr)
