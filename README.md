@@ -192,6 +192,10 @@ Tractable Control for Autoregressive Language Generation<br>
 by Zhang et al., ICML 2023<br>
 [[PDF]](https://arxiv.org/pdf/2304.07438.pdf)
 
+Variational Language Concepts for Interpreting Foundation Language Models<br>
+by Wang et al., EMNLP 2024<br>
+[[PDF]](http://wanghao.in/paper/EMNLP24_VALC.pdf)
+
 ## BDL and Computer Vision
 Attend, Infer, Repeat: Fast Scene Understanding with Generative Models<br>
 by Eslami et al., NIPS 2016<br>
@@ -376,6 +380,8 @@ by Pan et al., ICML 2024<br>
 Probabilistic Conceptual Explainers: Towards Trustworthy Conceptual Explanations for Vision Foundation Models<br>
 by Wang et al., ICML 2024<br>
 [[PDF]](http://wanghao.in/paper/ICML24_PACE.pdf)
+
+
 
 
 ## BDL and Control/Planning
