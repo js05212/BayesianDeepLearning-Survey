@@ -849,3 +849,7 @@ by Zeng et al., NeurIPS 2023<br>
 Variational Imbalanced Regression: Fair Uncertainty Quantification via Probabilistic Smoothing<br>
 by Wang et al., NeurIPS 2023<br>
 [[PDF]](http://www.wanghao.in/paper/NIPS23_VIR.pdf)
+
+BLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models<br>
+by Wang et al., NeurIPS 2024<br>
+[[PDF]](https://arxiv.org/pdf/2406.11675)
