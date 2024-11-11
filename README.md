@@ -293,6 +293,10 @@ Diffusion Models Beat GANs on Image Synthesis<br>
 by Dhariwal et al., NIPS 2021<br>
 [[PDF]](https://arxiv.org/pdf/2105.05233.pdf)
 
+Diffusion Visual Counterfactual Explanations<br>
+by Augustin et al., NIPS 2022<br>
+[[PDF]](https://arxiv.org/pdf/2210.11841)
+
 DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensional Latents<br>
 by Pandey et al., TMLR 2022<br>
 [[PDF]](https://arxiv.org/pdf/2201.00308)
