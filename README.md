@@ -196,6 +196,10 @@ Variational Language Concepts for Interpreting Foundation Language Models<br>
 by Wang et al., EMNLP 2024<br>
 [[PDF]](http://wanghao.in/paper/EMNLP24_VALC.pdf)
 
+Multi-agent Architecture Search via Agentic Supernet<br>
+by Zhang et al., ICML 2025<br>
+[[PDF]](https://arxiv.org/pdf/2502.04180)
+
 ## BDL and Computer Vision
 Attend, Infer, Repeat: Fast Scene Understanding with Generative Models<br>
 by Eslami et al., NIPS 2016<br>
